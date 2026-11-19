@@ -1,0 +1,291 @@
+{
+ "description": "Points de calage du fond 1:500 000, feuille Maine – Orléanais (≈ 1°40'W–1°30'E, 47°20'N–49°25'N : Normandie orientale, Maine, Touraine, Beauce ; poche de Falaise), situation du 15 août 1944. Villes repérées sur la version 3840 px de Wikimedia Commons.",
+ "reference_date": "1944-08-15",
+ "reference_width": 3840,
+ "lat0": 48.4,
+ "lon0": 0.0,
+ "projection": "Lambert conique conforme (« Europe (Air) Conical Orthomorphic »)",
+ "points": [
+  {
+   "name": "Caen",
+   "px": [
+    1526,
+    390
+   ],
+   "lat": 49.1829,
+   "lon": -0.3707,
+   "weight": 0.7
+  },
+  {
+   "name": "Bayeux",
+   "px": [
+    1199,
+    226
+   ],
+   "lat": 49.2764,
+   "lon": -0.7024
+  },
+  {
+   "name": "Saint-Lô",
+   "px": [
+    810,
+    463
+   ],
+   "lat": 49.1157,
+   "lon": -1.0906
+  },
+  {
+   "name": "Coutances",
+   "px": [
+    459,
+    555
+   ],
+   "lat": 49.0478,
+   "lon": -1.4453,
+   "weight": 0.7
+  },
+  {
+   "name": "Granville",
+   "px": [
+    278,
+    890
+   ],
+   "lat": 48.8378,
+   "lon": -1.5975
+  },
+  {
+   "name": "Avranches",
+   "px": [
+    532,
+    1120
+   ],
+   "lat": 48.6847,
+   "lon": -1.3567,
+   "weight": 0.5
+  },
+  {
+   "name": "Rennes",
+   "px": [
+    168,
+    2002
+   ],
+   "lat": 48.1113,
+   "lon": -1.68,
+   "weight": 0.7
+  },
+  {
+   "name": "Fougères",
+   "px": [
+    678,
+    1611
+   ],
+   "lat": 48.3525,
+   "lon": -1.1986
+  },
+  {
+   "name": "Laval",
+   "px": [
+    1110,
+    2060
+   ],
+   "lat": 48.0733,
+   "lon": -0.77
+  },
+  {
+   "name": "Mayenne",
+   "px": [
+    1272,
+    1698
+   ],
+   "lat": 48.3031,
+   "lon": -0.6136,
+   "weight": 0.6
+  },
+  {
+   "name": "Alençon",
+   "px": [
+    1978,
+    1507
+   ],
+   "lat": 48.4329,
+   "lon": 0.0913,
+   "weight": 0.7
+  },
+  {
+   "name": "Le Mans",
+   "px": [
+    2088,
+    2163
+   ],
+   "lat": 48.0061,
+   "lon": 0.1996,
+   "weight": 0.7
+  },
+  {
+   "name": "Angers",
+   "px": [
+    1333,
+    2956
+   ],
+   "lat": 47.4784,
+   "lon": -0.5632,
+   "weight": 0.7
+  },
+  {
+   "name": "Tours",
+   "px": [
+    2606,
+    3082
+   ],
+   "lat": 47.3941,
+   "lon": 0.6848,
+   "weight": 0.7
+  },
+  {
+   "name": "Blois",
+   "px": [
+    3241,
+    2767
+   ],
+   "lat": 47.5861,
+   "lon": 1.3359,
+   "weight": 0.7
+  },
+  {
+   "name": "Conches",
+   "px": [
+    2820,
+    717
+   ],
+   "lat": 48.9583,
+   "lon": 0.9417,
+   "weight": 0.6
+  },
+  {
+   "name": "Lisieux",
+   "px": [
+    2362,
+    398
+   ],
+   "lat": 49.1466,
+   "lon": 0.2259,
+   "weight": 0.0,
+   "note": "écarté : mauvais symbole identifié (écart 18 km)"
+  },
+  {
+   "name": "Bernay",
+   "px": [
+    2477,
+    498
+   ],
+   "lat": 49.0889,
+   "lon": 0.5983
+  },
+  {
+   "name": "La Flèche",
+   "px": [
+    1812,
+    2625
+   ],
+   "lat": 47.6997,
+   "lon": -0.0758,
+   "weight": 0.6
+  },
+  {
+   "name": "Mamers",
+   "px": [
+    2262,
+    1575
+   ],
+   "lat": 48.3497,
+   "lon": 0.3697,
+   "weight": 0.0,
+   "note": "écarté : identification douteuse (écart 4,6 km)"
+  },
+  {
+   "name": "Chartres",
+   "px": [
+    3384,
+    1475
+   ],
+   "lat": 48.4469,
+   "lon": 1.4892
+  },
+  {
+   "name": "Vendôme",
+   "px": [
+    2962,
+    2471
+   ],
+   "lat": 47.7929,
+   "lon": 1.0656
+  },
+  {
+   "name": "Châteaudun",
+   "px": [
+    3232,
+    2051
+   ],
+   "lat": 48.0708,
+   "lon": 1.3378,
+   "weight": 0.6
+  },
+  {
+   "name": "Dreux",
+   "px": [
+    3247,
+    1035
+   ],
+   "lat": 48.7366,
+   "lon": 1.3655,
+   "weight": 0.7
+  },
+  {
+   "name": "Évreux",
+   "px": [
+    3032,
+    597
+   ],
+   "lat": 49.027,
+   "lon": 1.1508
+  },
+  {
+   "name": "Argentan",
+   "px": [
+    1865,
+    1045
+   ],
+   "lat": 48.7444,
+   "lon": -0.0203,
+   "weight": 0.5
+  },
+  {
+   "name": "Falaise",
+   "px": [
+    1690,
+    811
+   ],
+   "lat": 48.8956,
+   "lon": -0.1931,
+   "weight": 0.5
+  }
+ ],
+ "neatline_px": [
+  [
+   132,
+   103
+  ],
+  [
+   3732,
+   103
+  ],
+  [
+   3732,
+   3228
+  ],
+  [
+   132,
+   3228
+  ]
+ ]
+}

@@ -1,0 +1,283 @@
+{
+ "description": "Points de calage du fond 1:500 000, feuille Bretagne (≈ 3°40'W–0°, 47°13'N–49°23'N), situation du 5 août 1944. Villes et repères du carroyage tracés sur les bords (bord inférieur : longitudes ; bord droit : latitudes). Pixels mesurés sur la version 3840 px de Wikimedia Commons.",
+ "reference_date": "1944-08-05",
+ "reference_width": 3840,
+ "lat0": 48.3,
+ "lon0": -2.0,
+ "projection": "Lambert conique conforme (« Europe (Air) Conical Orthomorphic »)",
+ "points": [
+  {
+   "name": "Rennes",
+   "px": [
+    2070,
+    1962
+   ],
+   "lat": 48.1113,
+   "lon": -1.68,
+   "weight": 0.7
+  },
+  {
+   "name": "Laval",
+   "px": [
+    2985,
+    2029
+   ],
+   "lat": 48.0733,
+   "lon": -0.77,
+   "weight": 0.7
+  },
+  {
+   "name": "Angers",
+   "px": [
+    3199,
+    2934
+   ],
+   "lat": 47.4784,
+   "lon": -0.5632,
+   "weight": 0.7
+  },
+  {
+   "name": "Nantes",
+   "px": [
+    2185,
+    3288
+   ],
+   "lat": 47.2184,
+   "lon": -1.5536,
+   "weight": 0.4
+  },
+  {
+   "name": "Dinan",
+   "px": [
+    1717,
+    1433
+   ],
+   "lat": 48.4555,
+   "lon": -2.0503,
+   "weight": 0.7
+  },
+  {
+   "name": "Vannes",
+   "px": [
+    982,
+    2613
+   ],
+   "lat": 47.6582,
+   "lon": -2.7608,
+   "weight": 0.7
+  },
+  {
+   "name": "Saint-Brieuc",
+   "px": [
+    1019,
+    1324
+   ],
+   "lat": 48.5136,
+   "lon": -2.7603
+  },
+  {
+   "name": "Fougères",
+   "px": [
+    2569,
+    1607
+   ],
+   "lat": 48.3525,
+   "lon": -1.1986
+  },
+  {
+   "name": "Granville",
+   "px": [
+    2199,
+    865
+   ],
+   "lat": 48.8378,
+   "lon": -1.5975,
+   "weight": 0.7
+  },
+  {
+   "name": "Châteaubriant",
+   "px": [
+    2375,
+    2562
+   ],
+   "lat": 47.7172,
+   "lon": -1.3761
+  },
+  {
+   "name": "Redon",
+   "px": [
+    1645,
+    2631
+   ],
+   "lat": 47.6514,
+   "lon": -2.0839,
+   "weight": 0.7
+  },
+  {
+   "name": "Auray",
+   "px": [
+    736,
+    2581
+   ],
+   "lat": 47.6678,
+   "lon": -2.9819,
+   "weight": 0.7
+  },
+  {
+   "name": "Coutances",
+   "px": [
+    2361,
+    536
+   ],
+   "lat": 49.0478,
+   "lon": -1.4453,
+   "weight": 0.7
+  },
+  {
+   "name": "Saint-Lô",
+   "px": [
+    2711,
+    444
+   ],
+   "lat": 49.1157,
+   "lon": -1.0906
+  },
+  {
+   "name": "Guingamp",
+   "px": [
+    641,
+    1241
+   ],
+   "lat": 48.5627,
+   "lon": -3.15,
+   "weight": 0.5
+  },
+  {
+   "name": "Lannion",
+   "px": [
+    356,
+    948
+   ],
+   "lat": 48.7326,
+   "lon": -3.4566,
+   "weight": 0.5
+  },
+  {
+   "name": "Bord bas 3°30'W",
+   "px": [
+    204,
+    3307
+   ],
+   "lon": -3.5,
+   "weight": 0.6
+  },
+  {
+   "name": "Bord bas 3°W",
+   "px": [
+    713,
+    3308
+   ],
+   "lon": -3.0,
+   "weight": 0.6
+  },
+  {
+   "name": "Bord bas 2°30'W",
+   "px": [
+    1224,
+    3309
+   ],
+   "lon": -2.5,
+   "weight": 0.6
+  },
+  {
+   "name": "Bord bas 2°W",
+   "px": [
+    1716,
+    3310
+   ],
+   "lon": -2.0,
+   "weight": 0.6
+  },
+  {
+   "name": "Bord bas 1°30'W",
+   "px": [
+    2232,
+    3312
+   ],
+   "lon": -1.5,
+   "weight": 0.6
+  },
+  {
+   "name": "Bord bas 1°W",
+   "px": [
+    2741,
+    3312
+   ],
+   "lon": -1.0,
+   "weight": 0.4
+  },
+  {
+   "name": "Bord bas 0°30'W",
+   "px": [
+    3253,
+    3312
+   ],
+   "lon": -0.5,
+   "weight": 0.4
+  },
+  {
+   "name": "Bord droit 49°N",
+   "px": [
+    3755,
+    631
+   ],
+   "lat": 49.0,
+   "weight": 0.6
+  },
+  {
+   "name": "Bord droit 48°30'N",
+   "px": [
+    3755,
+    1387
+   ],
+   "lat": 48.5,
+   "weight": 0.6
+  },
+  {
+   "name": "Bord droit 48°N",
+   "px": [
+    3755,
+    2140
+   ],
+   "lat": 48.0,
+   "weight": 0.6
+  },
+  {
+   "name": "Bord droit 47°30'N",
+   "px": [
+    3755,
+    2894
+   ],
+   "lat": 47.5,
+   "weight": 0.6
+  }
+ ],
+ "neatline_px": [
+  [
+   55,
+   10
+  ],
+  [
+   3755,
+   10
+  ],
+  [
+   3755,
+   3308
+  ],
+  [
+   55,
+   3306
+  ]
+ ]
+}

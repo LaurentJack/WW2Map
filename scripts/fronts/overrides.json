@@ -1,0 +1,654 @@
+{
+ "500k_s3_1944-06-10": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "500k_s3_1944-06-23": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "500k_s3_1944-06-24": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "500k_am_1944-08-09": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "500k_bzh_1944-08-09": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "1M_1945-01-29": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "1M_1945-02-11": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "1000k_avr_1945-04-16": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "1000k_avr_1945-04-18": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "1400k_de_1945-05-03": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "1M_1944-10-09": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_b_1944-08-31": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_c_1944-08-31": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "1M_1944-08-31": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "bzh_0910_1944-08-31": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_b_1944-09-01": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_c_1944-09-01": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "1M_1944-09-01": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "bzh_0910_1944-09-01": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_b_1944-09-02": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_c_1944-09-02": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "1M_1944-09-02": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "bzh_0910_1944-09-02": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_b_1944-09-03": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_c_1944-09-03": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "1M_1944-09-03": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "bzh_0910_1944-09-03": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_b_1944-09-04": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_c_1944-09-04": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "1M_1944-09-04": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "bzh_0910_1944-09-04": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_b_1944-09-05": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_c_1944-09-05": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "1M_1944-09-05": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "bzh_0910_1944-09-05": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_b_1944-09-06": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_c_1944-09-06": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "1M_1944-09-06": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "bzh_0910_1944-09-06": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_b_1944-09-07": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_c_1944-09-07": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "1M_1944-09-07": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "bzh_0910_1944-09-07": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_b_1944-09-08": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_c_1944-09-08": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "1M_1944-09-08": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "bzh_0910_1944-09-08": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_b_1944-09-09": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_c_1944-09-09": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "1M_1944-09-09": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "bzh_0910_1944-09-09": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_b_1944-09-10": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_c_1944-09-10": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "1M_1944-09-10": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "bzh_0910_1944-09-10": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_b_1944-09-11": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_c_1944-09-11": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "1M_1944-09-11": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "bzh_0910_1944-09-11": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_b_1944-09-12": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_c_1944-09-12": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "1M_1944-09-12": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "bzh_0910_1944-09-12": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_b_1944-09-13": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_c_1944-09-13": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "1M_1944-09-13": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "bzh_0910_1944-09-13": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_b_1944-09-14": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_c_1944-09-14": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "1M_1944-09-14": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "bzh_0910_1944-09-14": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_b_1944-09-15": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_c_1944-09-15": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "1M_1944-09-15": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "bzh_0910_1944-09-15": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_b_1944-09-16": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_c_1944-09-16": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "1M_1944-09-16": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "bzh_0910_1944-09-16": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_b_1944-09-17": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_c_1944-09-17": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "1M_1944-09-17": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "bzh_0910_1944-09-17": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_b_1944-09-18": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_c_1944-09-18": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "1M_1944-09-18": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "bzh_0910_1944-09-18": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_b_1944-09-19": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_c_1944-09-19": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "1M_1944-09-19": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "bzh_0910_1944-09-19": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_b_1944-09-20": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_c_1944-09-20": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "1M_1944-09-20": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "bzh_0910_1944-09-20": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_b_1944-09-21": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_c_1944-09-21": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "1M_1944-09-21": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "bzh_0910_1944-09-21": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_b_1944-09-22": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_c_1944-09-22": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "1M_1944-09-22": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "bzh_0910_1944-09-22": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_b_1944-09-23": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_c_1944-09-23": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "1M_1944-09-23": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "bzh_0910_1944-09-23": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_b_1944-09-24": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_c_1944-09-24": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "1M_1944-09-24": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "bzh_0910_1944-09-24": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_b_1944-09-25": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_c_1944-09-25": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "1M_1944-09-25": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "bzh_0910_1944-09-25": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_b_1944-09-26": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_c_1944-09-26": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "1M_1944-09-26": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "bzh_0910_1944-09-26": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_b_1944-09-27": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_c_1944-09-27": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "1M_1944-09-27": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "bzh_0910_1944-09-27": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_b_1944-09-28": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_c_1944-09-28": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "1M_1944-09-28": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "bzh_0910_1944-09-28": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_b_1944-09-29": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_c_1944-09-29": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "1M_1944-09-29": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "bzh_0910_1944-09-29": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_b_1944-09-30": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_c_1944-09-30": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "1M_1944-09-30": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "bzh_0910_1944-09-30": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_b_1944-10-01": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_c_1944-10-01": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "1M_1944-10-01": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "bzh_0910_1944-10-01": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_b_1944-10-02": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_c_1944-10-02": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "1M_1944-10-02": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "bzh_0910_1944-10-02": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_b_1944-10-03": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_c_1944-10-03": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "1M_1944-10-03": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "bzh_0910_1944-10-03": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_b_1944-10-04": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_c_1944-10-04": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "1M_1944-10-04": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "bzh_0910_1944-10-04": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_b_1944-10-05": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_c_1944-10-05": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "1M_1944-10-05": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "bzh_0910_1944-10-05": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_b_1944-10-06": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_c_1944-10-06": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "1M_1944-10-06": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "bzh_0910_1944-10-06": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_b_1944-10-07": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "750k_c_1944-10-07": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "1M_1944-10-07": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ },
+ "bzh_0910_1944-10-07": {
+  "drop": true,
+  "why": "aucun front tracé en trait noir : seules des limites d'armées ou des écritures ressortent"
+ }
+}

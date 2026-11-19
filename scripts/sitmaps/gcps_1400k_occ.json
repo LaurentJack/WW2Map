@@ -1,0 +1,492 @@
+{
+ "description": "Fond 1:1 500 000 de mai – juillet 1945 (Allemagne et zones d'occupation), projection conique équivalente d'Albers, parallèles standard 54°20' et 47°40' (indiqués dans la légende). Repères du carroyage sur les quatre bords (une seule coordonnée chacun) et villes. Pixels sur la version 3840 px de Wikimedia Commons.",
+ "reference_date": "1945-06-15",
+ "reference_width": 3840,
+ "kind": "albers",
+ "p1": 54.3333,
+ "p2": 47.6667,
+ "lat0": 50.5,
+ "lon0": 10.5,
+ "projection": "Conique équivalente d'Albers",
+ "points": [
+  {
+   "name": "Bord haut 6°E",
+   "px": [
+    331,
+    183
+   ],
+   "lon": 6,
+   "weight": 0.6
+  },
+  {
+   "name": "Bord haut 7°E",
+   "px": [
+    681,
+    183
+   ],
+   "lon": 7,
+   "weight": 0.6
+  },
+  {
+   "name": "Bord haut 8°E",
+   "px": [
+    1022,
+    183
+   ],
+   "lon": 8,
+   "weight": 0.6
+  },
+  {
+   "name": "Bord haut 9°E",
+   "px": [
+    1383,
+    183
+   ],
+   "lon": 9,
+   "weight": 0.6
+  },
+  {
+   "name": "Bord haut 10°E",
+   "px": [
+    1710,
+    183
+   ],
+   "lon": 10,
+   "weight": 0.6
+  },
+  {
+   "name": "Bord haut 11°E",
+   "px": [
+    2050,
+    183
+   ],
+   "lon": 11,
+   "weight": 0.6
+  },
+  {
+   "name": "Bord haut 12°E",
+   "px": [
+    2394,
+    183
+   ],
+   "lon": 12,
+   "weight": 0.6
+  },
+  {
+   "name": "Bord haut 13°E",
+   "px": [
+    2739,
+    183
+   ],
+   "lon": 13,
+   "weight": 0.6
+  },
+  {
+   "name": "Bord haut 14°E",
+   "px": [
+    3083,
+    183
+   ],
+   "lon": 14,
+   "weight": 0.6
+  },
+  {
+   "name": "Bord haut 15°E",
+   "px": [
+    3412,
+    183
+   ],
+   "lon": 15,
+   "weight": 0.6
+  },
+  {
+   "name": "Bord bas 7°E",
+   "px": [
+    488,
+    4106
+   ],
+   "lon": 7,
+   "weight": 0.4
+  },
+  {
+   "name": "Bord bas 8°E",
+   "px": [
+    898,
+    4106
+   ],
+   "lon": 8,
+   "weight": 0.4
+  },
+  {
+   "name": "Bord bas 9°E",
+   "px": [
+    1274,
+    4106
+   ],
+   "lon": 9,
+   "weight": 0.4
+  },
+  {
+   "name": "Bord bas 10°E",
+   "px": [
+    1657,
+    4106
+   ],
+   "lon": 10,
+   "weight": 0.4
+  },
+  {
+   "name": "Bord bas 11°E",
+   "px": [
+    2053,
+    4106
+   ],
+   "lon": 11,
+   "weight": 0.4
+  },
+  {
+   "name": "Bord bas 12°E",
+   "px": [
+    2442,
+    4106
+   ],
+   "lon": 12,
+   "weight": 0.4
+  },
+  {
+   "name": "Bord bas 13°E",
+   "px": [
+    2840,
+    4106
+   ],
+   "lon": 13,
+   "weight": 0.4
+  },
+  {
+   "name": "Bord bas 14°E",
+   "px": [
+    3252,
+    4106
+   ],
+   "lon": 14,
+   "weight": 0.4
+  },
+  {
+   "name": "Bord bas 15°E",
+   "px": [
+    3650,
+    4106
+   ],
+   "lon": 15,
+   "weight": 0.4
+  },
+  {
+   "name": "Bord gauche 53°N",
+   "px": [
+    112,
+    242
+   ],
+   "lat": 53,
+   "weight": 0.0,
+   "note": "écarté : l'étiquette de latitude est imprimée sous le repère (lecture biaisée de ~35 px)"
+  },
+  {
+   "name": "Bord gauche 52°N",
+   "px": [
+    112,
+    815
+   ],
+   "lat": 52,
+   "weight": 0.0,
+   "note": "écarté : l'étiquette de latitude est imprimée sous le repère (lecture biaisée de ~35 px)"
+  },
+  {
+   "name": "Bord gauche 51°N",
+   "px": [
+    112,
+    1398
+   ],
+   "lat": 51,
+   "weight": 0.0,
+   "note": "écarté : l'étiquette de latitude est imprimée sous le repère (lecture biaisée de ~35 px)"
+  },
+  {
+   "name": "Bord gauche 50°N",
+   "px": [
+    112,
+    1990
+   ],
+   "lat": 50,
+   "weight": 0.0,
+   "note": "écarté : l'étiquette de latitude est imprimée sous le repère (lecture biaisée de ~35 px)"
+  },
+  {
+   "name": "Bord gauche 49°N",
+   "px": [
+    112,
+    2577
+   ],
+   "lat": 49,
+   "weight": 0.0,
+   "note": "écarté : l'étiquette de latitude est imprimée sous le repère (lecture biaisée de ~35 px)"
+  },
+  {
+   "name": "Bord gauche 48°N",
+   "px": [
+    112,
+    3143
+   ],
+   "lat": 48,
+   "weight": 0.0,
+   "note": "écarté : l'étiquette de latitude est imprimée sous le repère (lecture biaisée de ~35 px)"
+  },
+  {
+   "name": "Bord gauche 47°N",
+   "px": [
+    112,
+    3727
+   ],
+   "lat": 47,
+   "weight": 0.0,
+   "note": "écarté : l'étiquette de latitude est imprimée sous le repère (lecture biaisée de ~35 px)"
+  },
+  {
+   "name": "Bord droit 53°N",
+   "px": [
+    3730,
+    245
+   ],
+   "lat": 53,
+   "weight": 0.0,
+   "note": "écarté : l'étiquette de latitude est imprimée sous le repère (lecture biaisée de ~35 px)"
+  },
+  {
+   "name": "Bord droit 52°N",
+   "px": [
+    3730,
+    822
+   ],
+   "lat": 52,
+   "weight": 0.0,
+   "note": "écarté : l'étiquette de latitude est imprimée sous le repère (lecture biaisée de ~35 px)"
+  },
+  {
+   "name": "Bord droit 51°N",
+   "px": [
+    3730,
+    1410
+   ],
+   "lat": 51,
+   "weight": 0.0,
+   "note": "écarté : l'étiquette de latitude est imprimée sous le repère (lecture biaisée de ~35 px)"
+  },
+  {
+   "name": "Bord droit 50°N",
+   "px": [
+    3730,
+    2007
+   ],
+   "lat": 50,
+   "weight": 0.0,
+   "note": "écarté : l'étiquette de latitude est imprimée sous le repère (lecture biaisée de ~35 px)"
+  },
+  {
+   "name": "Bord droit 49°N",
+   "px": [
+    3730,
+    2575
+   ],
+   "lat": 49,
+   "weight": 0.0,
+   "note": "écarté : l'étiquette de latitude est imprimée sous le repère (lecture biaisée de ~35 px)"
+  },
+  {
+   "name": "Bord droit 48°N",
+   "px": [
+    3730,
+    3148
+   ],
+   "lat": 48,
+   "weight": 0.0,
+   "note": "écarté : l'étiquette de latitude est imprimée sous le repère (lecture biaisée de ~35 px)"
+  },
+  {
+   "name": "Bord droit 47°N",
+   "px": [
+    3730,
+    3720
+   ],
+   "lat": 47,
+   "weight": 0.0,
+   "note": "écarté : l'étiquette de latitude est imprimée sous le repère (lecture biaisée de ~35 px)"
+  },
+  {
+   "name": "Nuremberg",
+   "px": [
+    2083,
+    2339
+   ],
+   "lat": 49.4521,
+   "lon": 11.0767,
+   "weight": 1
+  },
+  {
+   "name": "Munich",
+   "px": [
+    2269,
+    3109
+   ],
+   "lat": 48.1374,
+   "lon": 11.5755,
+   "weight": 0.6
+  },
+  {
+   "name": "Francfort",
+   "px": [
+    1195,
+    1930
+   ],
+   "lat": 50.1109,
+   "lon": 8.6821,
+   "weight": 1
+  },
+  {
+   "name": "Cologne",
+   "px": [
+    603,
+    1428
+   ],
+   "lat": 50.9375,
+   "lon": 6.9603,
+   "weight": 0.8
+  },
+  {
+   "name": "Kassel",
+   "px": [
+    1520,
+    1245
+   ],
+   "lat": 51.3127,
+   "lon": 9.4797,
+   "weight": 0.8
+  },
+  {
+   "name": "Leipzig",
+   "px": [
+    2548,
+    1247
+   ],
+   "lat": 51.3397,
+   "lon": 12.3731,
+   "weight": 1
+  },
+  {
+   "name": "Dresde",
+   "px": [
+    3035,
+    1379
+   ],
+   "lat": 51.0504,
+   "lon": 13.7373,
+   "weight": 1
+  },
+  {
+   "name": "Stuttgart",
+   "px": [
+    1372,
+    2704
+   ],
+   "lat": 48.7758,
+   "lon": 9.1829,
+   "weight": 1
+  },
+  {
+   "name": "Hanovre",
+   "px": [
+    1597,
+    648
+   ],
+   "lat": 52.3759,
+   "lon": 9.732,
+   "weight": 0.6
+  },
+  {
+   "name": "Brême",
+   "px": [
+    1280,
+    222
+   ],
+   "lat": 53.0793,
+   "lon": 8.8017,
+   "weight": 0.5
+  },
+  {
+   "name": "Strasbourg",
+   "px": [
+    821,
+    2814
+   ],
+   "lat": 48.5734,
+   "lon": 7.7521,
+   "weight": 1
+  },
+  {
+   "name": "Würzburg",
+   "px": [
+    1660,
+    2124
+   ],
+   "lat": 49.7913,
+   "lon": 9.9534,
+   "weight": 0.6
+  },
+  {
+   "name": "Augsbourg",
+   "px": [
+    2008,
+    2948
+   ],
+   "lat": 48.3705,
+   "lon": 10.8978,
+   "weight": 1
+  },
+  {
+   "name": "Linz",
+   "px": [
+    3314,
+    2972
+   ],
+   "lat": 48.3069,
+   "lon": 14.2858,
+   "weight": 1
+  },
+  {
+   "name": "Prague",
+   "px": [
+    3323,
+    1935
+   ],
+   "lat": 50.0755,
+   "lon": 14.4378,
+   "weight": 1
+  }
+ ],
+ "neatline_px": [
+  [
+   112,
+   183
+  ],
+  [
+   3730,
+   183
+  ],
+  [
+   3730,
+   4106
+  ],
+  [
+   112,
+   4106
+  ]
+ ]
+}

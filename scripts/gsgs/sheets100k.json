@@ -1,0 +1,188 @@
+[
+ {
+  "sheet": "5E",
+  "name": "Les Pieux – Guernesey",
+  "file": "les-pieux-guernsey-5e.jpg",
+  "crs": "L1",
+  "e0": 234,
+  "n0": 240,
+  "tl_px": [
+   333,
+   293
+  ],
+  "page": "https://maps.lib.utexas.edu/maps/ams/france_100k/txu-pclmaps-oclc-6477007-les-pieux-guernsey-5e.jpg"
+ },
+ {
+  "sheet": "6E",
+  "name": "Cherbourg – Valognes",
+  "file": "cherbourg-valognes-6-e.jpg",
+  "crs": "L1",
+  "e0": 312,
+  "n0": 240,
+  "tl_px": [
+   523,
+   251
+  ],
+  "page": "https://maps.lib.utexas.edu/maps/ams/france_100k/txu-pclmaps-oclc-6477007-cherbourg-valognes-6-e.jpg",
+  "fix": [
+   0,
+   1
+  ]
+ },
+ {
+  "sheet": "8E",
+  "name": "Le Havre – Pont-Audemer",
+  "file": "la-havre-pont-audemar-8-e.jpg",
+  "crs": "NDG",
+  "e0": -51,
+  "n0": 373,
+  "tl_px": [
+   252,
+   292
+  ],
+  "page": "https://maps.lib.utexas.edu/maps/ams/france_100k/txu-pclmaps-oclc-6477007-la-havre-pont-audemar-8-e.jpg",
+  "left_frac": 0.45,
+  "note": "moitié ouest : second quadrillage (Lambert I) qui perturbe la détection ; seule la moitié est est calée"
+ },
+ {
+  "sheet": "9E",
+  "name": "Neufchâtel – Rouen",
+  "file": "neufchatel-rouen-9-e.jpg",
+  "crs": "NDG",
+  "e0": 17,
+  "n0": 360,
+  "tl_px": [
+   148,
+   225
+  ],
+  "page": "https://maps.lib.utexas.edu/maps/ams/france_100k/txu-pclmaps-oclc-6477007-neufchatel-rouen-9-e.jpg",
+  "fix": [
+   0,
+   1
+  ]
+ },
+ {
+  "sheet": "6F",
+  "name": "Saint-Lô – Vire",
+  "file": "st-lo-vire-6-f.jpg",
+  "crs": "L1",
+  "e0": 306,
+  "n0": 180,
+  "tl_px": [
+   199,
+   405
+  ],
+  "page": "https://maps.lib.utexas.edu/maps/ams/france_100k/txu-pclmaps-oclc-6477007-st-lo-vire-6-f.jpg"
+ },
+ {
+  "sheet": "7F",
+  "name": "Caen – Falaise",
+  "file": "caen-falaise-7-f.jpg",
+  "crs": "L1",
+  "e0": 376,
+  "n0": 192,
+  "tl_px": [
+   260,
+   328
+  ],
+  "page": "https://maps.lib.utexas.edu/maps/ams/france_100k/txu-pclmaps-oclc-6477007-caen-falaise-7-f.jpg",
+  "fix": [
+   0,
+   1
+  ]
+ },
+ {
+  "sheet": "8F",
+  "name": "Lisieux – Bernay",
+  "file": "lisieux-bernay-8-f.jpg",
+  "crs": "NDG",
+  "e0": -51,
+  "n0": 305,
+  "tl_px": [
+   259,
+   200
+  ],
+  "page": "https://maps.lib.utexas.edu/maps/ams/france_100k/txu-pclmaps-oclc-6477007-lisieux-bernay-8-f.jpg",
+  "fix": [
+   0,
+   1
+  ]
+ },
+ {
+  "sheet": "9F",
+  "name": "Louviers – Évreux",
+  "file": "louviers-evreux-9-f.jpg",
+  "crs": "NDG",
+  "e0": 13,
+  "n0": 300,
+  "tl_px": [
+   160,
+   209
+  ],
+  "page": "https://maps.lib.utexas.edu/maps/ams/france_100k/txu-pclmaps-oclc-6477007-louviers-evreux-9-f.jpg",
+  "fix": [
+   -1,
+   1
+  ]
+ },
+ {
+  "sheet": "5G",
+  "name": "Saint-Malo – Dinan",
+  "file": "st-malo-dinan-5-g.jpg",
+  "crs": "L1",
+  "e0": 248,
+  "n0": 120,
+  "tl_px": [
+   250,
+   436
+  ],
+  "page": "https://maps.lib.utexas.edu/maps/ams/france_100k/txu-pclmaps-oclc-6477007-st-malo-dinan-5-g.jpg",
+  "fix": [
+   0,
+   1
+  ]
+ },
+ {
+  "sheet": "6G",
+  "name": "Avranches – Fougères",
+  "file": "avranches-fougeres-6-g.jpg",
+  "crs": "L1",
+  "e0": 312,
+  "n0": 120,
+  "tl_px": [
+   203,
+   323
+  ],
+  "page": "https://maps.lib.utexas.edu/maps/ams/france_100k/txu-pclmaps-oclc-6477007-avranches-fougeres-6-g.jpg"
+ },
+ {
+  "sheet": "7G",
+  "name": "Alençon – Mayenne",
+  "file": "alencon-mayenne-7-g.jpg",
+  "crs": "L1",
+  "e0": 376,
+  "n0": 120,
+  "tl_px": [
+   251,
+   166
+  ],
+  "page": "https://maps.lib.utexas.edu/maps/ams/france_100k/txu-pclmaps-oclc-6477007-alencon-mayenne-7-g.jpg"
+ },
+ {
+  "sheet": "8G",
+  "name": "Mortagne – Nogent-le-Rotrou",
+  "file": "mortagne-nogent-le-rotrou-8-g.jpg",
+  "crs": "NDG",
+  "e0": -56,
+  "n0": 245,
+  "tl_px": [
+   302,
+   154
+  ],
+  "page": "https://maps.lib.utexas.edu/maps/ams/france_100k/txu-pclmaps-oclc-6477007-mortagne-nogent-le-rotrou-8-g.jpg",
+  "fix": [
+   0,
+   1
+  ]
+ }
+]

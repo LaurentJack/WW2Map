@@ -1,0 +1,3307 @@
+[
+ {
+  "series": "belgium100k",
+  "name": "Amiens",
+  "sheet": "14",
+  "title": "File:Map by the US Army Map Service - Amiens - belgium 100k - txu-pclmaps-oclc-6624417-amiens-14.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Amiens_-_belgium_100k_-_txu-pclmaps-oclc-6624417-amiens-14.jpg",
+  "cache": "belgium100k_Amiens_14.jpg",
+  "orig_size": [
+   6973,
+   5043
+  ],
+  "extent": {
+   "lat_s": 49.5,
+   "lat_n": 50.0,
+   "lon_w": 2,
+   "lon_e": 3
+  }
+ },
+ {
+  "series": "belgium100k",
+  "name": "Antwerp",
+  "sheet": "3",
+  "title": "File:Map by the US Army Map Service - Antwerp - belgium 100k - txu-pclmaps-oclc-6624417-antwerp-3.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Antwerp_-_belgium_100k_-_txu-pclmaps-oclc-6624417-antwerp-3.jpg",
+  "cache": "belgium100k_Antwerp_3.jpg",
+  "orig_size": [
+   6993,
+   5047
+  ],
+  "extent": {
+   "lat_s": 51,
+   "lat_n": 51.5,
+   "lon_w": 4,
+   "lon_e": 5
+  }
+ },
+ {
+  "series": "belgium100k",
+  "name": "Arlon",
+  "sheet": "17",
+  "title": "File:Map by the US Army Map Service - Arlon - belgium 100k - txu-pclmaps-oclc-6624417-arlon-17.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Arlon_-_belgium_100k_-_txu-pclmaps-oclc-6624417-arlon-17.jpg",
+  "cache": "belgium100k_Arlon_17.jpg",
+  "orig_size": [
+   6954,
+   5048
+  ],
+  "extent": {
+   "lat_s": 49.5,
+   "lat_n": 50.0,
+   "lon_w": 5,
+   "lon_e": 6
+  }
+ },
+ {
+  "series": "germany250k",
+  "name": "Basel",
+  "sheet": "K-48",
+  "title": "File:Map by the US Army Map Service - Basel - central europe 250k - txu-pclmaps-oclc-6481354-basel-k-48.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Basel_-_central_europe_250k_-_txu-pclmaps-oclc-6481354-basel-k-48.jpg",
+  "cache": "germany250k_Basel_k-48.jpg",
+  "orig_size": [
+   7186,
+   6149
+  ],
+  "extent": {
+   "lat_s": 47,
+   "lat_n": 48,
+   "lon_w": 6.333333,
+   "lon_e": 8.333333
+  },
+  "ams": "N4700-E620/100x200",
+  "corners_px": [
+   [
+    143,
+    285
+   ],
+   [
+    3150,
+    295
+   ],
+   [
+    3184,
+    2514
+   ],
+   [
+    120,
+    2516
+   ]
+  ],
+  "mask_px": [
+   [
+    550,
+    288
+   ],
+   [
+    3150,
+    295
+   ],
+   [
+    3184,
+    2514
+   ],
+   [
+    468,
+    2514
+   ]
+  ]
+ },
+ {
+  "series": "belgium100k",
+  "name": "Beauvais",
+  "sheet": "18",
+  "title": "File:Map by the US Army Map Service - Beauvais - belgium 100k - txu-pclmaps-oclc-6624417-beauvais-18.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Beauvais_-_belgium_100k_-_txu-pclmaps-oclc-6624417-beauvais-18.jpg",
+  "cache": "belgium100k_Beauvais_18.jpg",
+  "orig_size": [
+   7008,
+   5036
+  ],
+  "extent": {
+   "lat_s": 49,
+   "lat_n": 49.5,
+   "lon_w": 2,
+   "lon_e": 3
+  }
+ },
+ {
+  "series": "germany250k",
+  "name": "Berlin",
+  "sheet": "N-53",
+  "title": "File:Map by the US Army Map Service - Berlin - central europe 250k - txu-pclmaps-oclc-6481354-berlin-n-53.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Berlin_-_central_europe_250k_-_txu-pclmaps-oclc-6481354-berlin-n-53.jpg",
+  "cache": "germany250k_Berlin_n-53.jpg",
+  "orig_size": [
+   7085,
+   6110
+  ],
+  "extent": {
+   "lat_s": 52,
+   "lat_n": 53,
+   "lon_w": 12.333333,
+   "lon_e": 14.333333
+  },
+  "ams": "N5200-E1220/100x200"
+ },
+ {
+  "series": "belgium100k",
+  "name": "Brussels",
+  "sheet": "8",
+  "title": "File:Map by the US Army Map Service - Brussels - belgium 100k - txu-pclmaps-oclc-6624417-brussels-8.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Brussels_-_belgium_100k_-_txu-pclmaps-oclc-6624417-brussels-8.jpg",
+  "cache": "belgium100k_Brussels_8.jpg",
+  "orig_size": [
+   6985,
+   5052
+  ],
+  "extent": {
+   "lat_s": 50.5,
+   "lat_n": 51.0,
+   "lon_w": 4,
+   "lon_e": 5
+  }
+ },
+ {
+  "series": "belgium100k",
+  "name": "Calais",
+  "sheet": "5",
+  "title": "File:Map by the US Army Map Service - Calais - belgium 100k - txu-pclmaps-oclc-6624417-calais-5.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Calais_-_belgium_100k_-_txu-pclmaps-oclc-6624417-calais-5.jpg",
+  "cache": "belgium100k_Calais_5.jpg",
+  "orig_size": [
+   3869,
+   6195
+  ],
+  "extent": {
+   "lat_s": 50.4,
+   "lat_n": 51.0,
+   "lon_w": 1.5,
+   "lon_e": 2.0
+  }
+ },
+ {
+  "series": "germany250k",
+  "name": "Chemnitz",
+  "sheet": "N-51",
+  "title": "File:Map by the US Army Map Service - Chemnitz - central europe 250k - txu-pclmaps-oclc-6481354-chemnitz-n-51.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Chemnitz_-_central_europe_250k_-_txu-pclmaps-oclc-6481354-chemnitz-n-51.jpg",
+  "cache": "germany250k_Chemnitz_n-51.jpg",
+  "orig_size": [
+   7100,
+   6164
+  ],
+  "extent": {
+   "lat_s": 50,
+   "lat_n": 51,
+   "lon_w": 12.333333,
+   "lon_e": 14.333333
+  },
+  "ams": "N5000-E1220/100x200"
+ },
+ {
+  "series": "germany250k",
+  "name": "Darmstadt",
+  "sheet": "L-50",
+  "title": "File:Map by the US Army Map Service - Darmstadt - central europe 250k - txu-pclmaps-oclc-6481354-darmstadt-l-50.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Darmstadt_-_central_europe_250k_-_txu-pclmaps-oclc-6481354-darmstadt-l-50.jpg",
+  "cache": "germany250k_Darmstadt_l-50.jpg",
+  "orig_size": [
+   7176,
+   6221
+  ],
+  "extent": {
+   "lat_s": 49,
+   "lat_n": 50,
+   "lon_w": 8.333333,
+   "lon_e": 10.333333
+  },
+  "ams": "N4900-E820/100x200"
+ },
+ {
+  "series": "germany250k",
+  "name": "Dresden",
+  "sheet": "N-52",
+  "title": "File:Map by the US Army Map Service - Dresden - central europe 250k - txu-pclmaps-oclc-6481354-dresden-n-52.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Dresden_-_central_europe_250k_-_txu-pclmaps-oclc-6481354-dresden-n-52.jpg",
+  "cache": "germany250k_Dresden_n-52.jpg",
+  "orig_size": [
+   7061,
+   6115
+  ],
+  "extent": {
+   "lat_s": 51,
+   "lat_n": 52,
+   "lon_w": 12.333333,
+   "lon_e": 14.333333
+  },
+  "ams": "N5100-E1220/100x200"
+ },
+ {
+  "series": "belgium100k",
+  "name": "Dunkerque",
+  "sheet": "1",
+  "title": "File:Map by the US Army Map Service - Dunkerque - belgium 100k - txu-pclmaps-oclc-6624417-dunkerque-1.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Dunkerque_-_belgium_100k_-_txu-pclmaps-oclc-6624417-dunkerque-1.jpg",
+  "cache": "belgium100k_Dunkerque_1.jpg",
+  "orig_size": [
+   6217,
+   3473
+  ],
+  "extent": {
+   "lat_s": 51,
+   "lat_n": 51.25,
+   "lon_w": 2,
+   "lon_e": 3
+  }
+ },
+ {
+  "series": "germany250k",
+  "name": "Dusseldorf",
+  "sheet": "K-52",
+  "title": "File:Map by the US Army Map Service - Dusseldorf - central europe 250k - txu-pclmaps-oclc-6481354-dusseldorf-k-52.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Dusseldorf_-_central_europe_250k_-_txu-pclmaps-oclc-6481354-dusseldorf-k-52.jpg",
+  "cache": "germany250k_Dusseldorf_k-52.jpg",
+  "orig_size": [
+   7123,
+   6149
+  ],
+  "extent": {
+   "lat_s": 51,
+   "lat_n": 52,
+   "lon_w": 6.333333,
+   "lon_e": 8.333333
+  },
+  "ams": "N5100-E620/100x200",
+  "corners_px": [
+   [
+    241,
+    259
+   ],
+   [
+    3041,
+    260
+   ],
+   [
+    3071,
+    2548
+   ],
+   [
+    206,
+    2532
+   ]
+  ]
+ },
+ {
+  "series": "germany250k",
+  "name": "Erfurt",
+  "sheet": "M-51",
+  "title": "File:Map by the US Army Map Service - Erfurt - central europe 250k - txu-pclmaps-oclc-6481354-erfurt-m-51.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Erfurt_-_central_europe_250k_-_txu-pclmaps-oclc-6481354-erfurt-m-51.jpg",
+  "cache": "germany250k_Erfurt_m-51.jpg",
+  "orig_size": [
+   7104,
+   6173
+  ],
+  "extent": {
+   "lat_s": 50,
+   "lat_n": 51,
+   "lon_w": 10.333333,
+   "lon_e": 12.333333
+  },
+  "ams": "N5000-E1020/100x200"
+ },
+ {
+  "series": "germany250k",
+  "name": "Frankfurt",
+  "sheet": "L-51",
+  "title": "File:Map by the US Army Map Service - Frankfurt - central europe 250k - txu-pclmaps-oclc-6481354-frankfurt-l-51.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Frankfurt_-_central_europe_250k_-_txu-pclmaps-oclc-6481354-frankfurt-l-51.jpg",
+  "cache": "germany250k_Frankfurt_l-51.jpg",
+  "extent": {
+   "lat_s": 50,
+   "lat_n": 51,
+   "lon_w": 8.333333,
+   "lon_e": 10.333333
+  },
+  "ams": "N5000-E820/100x200"
+ },
+ {
+  "series": "belgium100k",
+  "name": "Ghent",
+  "sheet": "2",
+  "title": "File:Map by the US Army Map Service - Ghent - belgium 100k - txu-pclmaps-oclc-6624417-ghent-2.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Ghent_-_belgium_100k_-_txu-pclmaps-oclc-6624417-ghent-2.jpg",
+  "cache": "belgium100k_Ghent_2.jpg",
+  "orig_size": [
+   7008,
+   5031
+  ],
+  "extent": {
+   "lat_s": 51,
+   "lat_n": 51.5,
+   "lon_w": 3,
+   "lon_e": 4
+  }
+ },
+ {
+  "series": "germany250k",
+  "name": "Halle",
+  "sheet": "M-52",
+  "title": "File:Map by the US Army Map Service - Halle - central europe 250k - txu-pclmaps-oclc-6481354-halle-m-52.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Halle_-_central_europe_250k_-_txu-pclmaps-oclc-6481354-halle-m-52.jpg",
+  "cache": "germany250k_Halle_m-52.jpg",
+  "orig_size": [
+   7051,
+   6168
+  ],
+  "extent": {
+   "lat_s": 51,
+   "lat_n": 52,
+   "lon_w": 10.333333,
+   "lon_e": 12.333333
+  },
+  "ams": "N5100-E1020/100x200"
+ },
+ {
+  "series": "germany250k",
+  "name": "Hannover",
+  "sheet": "L-53",
+  "title": "File:Map by the US Army Map Service - Hannover - central europe 250k - txu-pclmaps-oclc-6481354-hannover-l-53.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Hannover_-_central_europe_250k_-_txu-pclmaps-oclc-6481354-hannover-l-53.jpg",
+  "cache": "germany250k_Hannover_l-53.jpg",
+  "orig_size": [
+   7541,
+   6108
+  ],
+  "extent": {
+   "lat_s": 52,
+   "lat_n": 53,
+   "lon_w": 8.333333,
+   "lon_e": 10.333333
+  },
+  "ams": "N5200-E820/100x200"
+ },
+ {
+  "series": "belgium100k",
+  "name": "Hazebrouck",
+  "sheet": "6",
+  "title": "File:Map by the US Army Map Service - Hazebrouck - belgium 100k - txu-pclmaps-oclc-6624417-hazebrouck-6.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Hazebrouck_-_belgium_100k_-_txu-pclmaps-oclc-6624417-hazebrouck-6.jpg",
+  "cache": "belgium100k_Hazebrouck_6.jpg",
+  "orig_size": [
+   6965,
+   5047
+  ],
+  "extent": {
+   "lat_s": 50.5,
+   "lat_n": 51.0,
+   "lon_w": 2,
+   "lon_e": 3
+  }
+ },
+ {
+  "series": "germany250k",
+  "name": "Kiel",
+  "sheet": "L-55",
+  "title": "File:Map by the US Army Map Service - Kiel - central europe 250k - txu-pclmaps-oclc-6481354-kiel-l-55.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Kiel_-_central_europe_250k_-_txu-pclmaps-oclc-6481354-kiel-l-55.jpg",
+  "cache": "germany250k_Kiel_l-55.jpg",
+  "orig_size": [
+   7091,
+   6106
+  ],
+  "extent": {
+   "lat_s": 54,
+   "lat_n": 55,
+   "lon_w": 8.333333,
+   "lon_e": 10.333333
+  },
+  "ams": "N5400-E820/100x200",
+  "zone_hint": [
+   400,
+   370,
+   3160,
+   2660
+  ]
+ },
+ {
+  "series": "belgium100k",
+  "name": "Lens",
+  "sheet": "10",
+  "title": "File:Map by the US Army Map Service - Lens - belgium 100k - txu-pclmaps-oclc-6624417-lens-10.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Lens_-_belgium_100k_-_txu-pclmaps-oclc-6624417-lens-10.jpg",
+  "cache": "belgium100k_Lens_10.jpg",
+  "orig_size": [
+   6973,
+   5065
+  ],
+  "extent": {
+   "lat_s": 50,
+   "lat_n": 50.5,
+   "lon_w": 2,
+   "lon_e": 3
+  }
+ },
+ {
+  "series": "belgium100k",
+  "name": "Liege",
+  "sheet": "9",
+  "title": "File:Map by the US Army Map Service - Liege - belgium 100k - txu-pclmaps-oclc-6624417-liege-9.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Liege_-_belgium_100k_-_txu-pclmaps-oclc-6624417-liege-9.jpg",
+  "cache": "belgium100k_Liege_9.jpg",
+  "extent": {
+   "lat_s": 50.5,
+   "lat_n": 51.0,
+   "lon_w": 5,
+   "lon_e": 6
+  }
+ },
+ {
+  "series": "germany250k",
+  "name": "Magdeburg",
+  "sheet": "M-53",
+  "title": "File:Map by the US Army Map Service - Magdeburg - central europe 250k - txu-pclmaps-oclc-6481354-magdeburg-m-53.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Magdeburg_-_central_europe_250k_-_txu-pclmaps-oclc-6481354-magdeburg-m-53.jpg",
+  "cache": "germany250k_Magdeburg_m-53.jpg",
+  "orig_size": [
+   7068,
+   6125
+  ],
+  "extent": {
+   "lat_s": 52,
+   "lat_n": 53,
+   "lon_w": 10.333333,
+   "lon_e": 12.333333
+  },
+  "ams": "N5200-E1020/100x200"
+ },
+ {
+  "series": "belgium100k",
+  "name": "Marche",
+  "sheet": "13",
+  "title": "File:Map by the US Army Map Service - Marche - belgium 100k - txu-pclmaps-oclc-6624417-marche-13.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Marche_-_belgium_100k_-_txu-pclmaps-oclc-6624417-marche-13.jpg",
+  "cache": "belgium100k_Marche_13.jpg",
+  "orig_size": [
+   6973,
+   5034
+  ],
+  "extent": {
+   "lat_s": 50,
+   "lat_n": 50.5,
+   "lon_w": 5,
+   "lon_e": 6
+  }
+ },
+ {
+  "series": "belgium100k",
+  "name": "Maseyck",
+  "sheet": "4",
+  "title": "File:Map by the US Army Map Service - Maseyck - belgium 100k - txu-pclmaps-oclc-6624417-maeseyck-4.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Maseyck_-_belgium_100k_-_txu-pclmaps-oclc-6624417-maeseyck-4.jpg",
+  "cache": "belgium100k_Maseyck_4.jpg",
+  "orig_size": [
+   6973,
+   5054
+  ],
+  "extent": {
+   "lat_s": 51,
+   "lat_n": 51.5,
+   "lon_w": 5,
+   "lon_e": 6
+  }
+ },
+ {
+  "series": "belgium100k",
+  "name": "Mezieres",
+  "sheet": "16",
+  "title": "File:Map by the US Army Map Service - Mezieres - belgium 100k - txu-pclmaps-oclc-6624417-mezieres-16.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Mezieres_-_belgium_100k_-_txu-pclmaps-oclc-6624417-mezieres-16.jpg",
+  "cache": "belgium100k_Mezieres_16.jpg",
+  "orig_size": [
+   6949,
+   5043
+  ],
+  "extent": {
+   "lat_s": 49.5,
+   "lat_n": 50.0,
+   "lon_w": 4,
+   "lon_e": 5
+  }
+ },
+ {
+  "series": "germany250k",
+  "name": "Munchen",
+  "sheet": "M-49",
+  "title": "File:Map by the US Army Map Service - Munchen - central europe 250k - txu-pclmaps-oclc-6481354-munchen-m-49.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Munchen_-_central_europe_250k_-_txu-pclmaps-oclc-6481354-munchen-m-49.jpg",
+  "cache": "germany250k_Munchen_m-49.jpg",
+  "orig_size": [
+   7123,
+   6110
+  ],
+  "extent": {
+   "lat_s": 48,
+   "lat_n": 49,
+   "lon_w": 10.333333,
+   "lon_e": 12.333333
+  },
+  "ams": "N4800-E1020/100x200"
+ },
+ {
+  "series": "belgium100k",
+  "name": "Namur",
+  "sheet": "12",
+  "title": "File:Map by the US Army Map Service - Namur - belgium 100k - txu-pclmaps-oclc-6624417-namur-12.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Namur_-_belgium_100k_-_txu-pclmaps-oclc-6624417-namur-12.jpg",
+  "cache": "belgium100k_Namur_12.jpg",
+  "orig_size": [
+   6954,
+   5044
+  ],
+  "extent": {
+   "lat_s": 50,
+   "lat_n": 50.5,
+   "lon_w": 4,
+   "lon_e": 5
+  }
+ },
+ {
+  "series": "germany250k",
+  "name": "Neustrelitz",
+  "sheet": "N-54",
+  "title": "File:Map by the US Army Map Service - Neustrelitz - central europe 250k - txu-pclmaps-oclc-6481354-neustrelitz-n-54.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Neustrelitz_-_central_europe_250k_-_txu-pclmaps-oclc-6481354-neustrelitz-n-54.jpg",
+  "cache": "germany250k_Neustrelitz_n-54.jpg",
+  "orig_size": [
+   7157,
+   6116
+  ],
+  "extent": {
+   "lat_s": 53,
+   "lat_n": 54,
+   "lon_w": 12.333333,
+   "lon_e": 14.333333
+  },
+  "ams": "N5300-E1220/100x200"
+ },
+ {
+  "series": "germany250k",
+  "name": "Nurnberg",
+  "sheet": "M-50",
+  "title": "File:Map by the US Army Map Service - Nurnberg - central europe 250k - txu-pclmaps-oclc-6481354-nurnberg-m-50.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Nurnberg_-_central_europe_250k_-_txu-pclmaps-oclc-6481354-nurnberg-m-50.jpg",
+  "cache": "germany250k_Nurnberg_m-50.jpg",
+  "orig_size": [
+   7141,
+   6173
+  ],
+  "extent": {
+   "lat_s": 49,
+   "lat_n": 50,
+   "lon_w": 10.333333,
+   "lon_e": 12.333333
+  },
+  "ams": "N4900-E1020/100x200"
+ },
+ {
+  "series": "germany250k",
+  "name": "Osnabruck",
+  "sheet": "K-53",
+  "title": "File:Map by the US Army Map Service - Osnabruck - central europe 250k - txu-pclmaps-oclc-6481354-osnabruck-k-53.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Osnabruck_-_central_europe_250k_-_txu-pclmaps-oclc-6481354-osnabruck-k-53.jpg",
+  "cache": "germany250k_Osnabruck_k-53.jpg",
+  "orig_size": [
+   6649,
+   6152
+  ],
+  "extent": {
+   "lat_s": 52,
+   "lat_n": 53,
+   "lon_w": 6.333333,
+   "lon_e": 8.333333
+  },
+  "ams": "N5200-E620/100x200",
+  "corners_px": [
+   [
+    229,
+    334
+   ],
+   [
+    3142,
+    289
+   ],
+   [
+    3212,
+    2718
+   ],
+   [
+    229,
+    2747
+   ]
+  ]
+ },
+ {
+  "series": "germany250k",
+  "name": "Passau",
+  "sheet": "N-49",
+  "title": "File:Map by the US Army Map Service - Passau - central europe 250k - txu-pclmaps-oclc-6481354-passau-n-49.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Passau_-_central_europe_250k_-_txu-pclmaps-oclc-6481354-passau-n-49.jpg",
+  "cache": "germany250k_Passau_n-49.jpg",
+  "orig_size": [
+   7536,
+   6106
+  ],
+  "extent": {
+   "lat_s": 48,
+   "lat_n": 49,
+   "lon_w": 12.333333,
+   "lon_e": 14.333333
+  },
+  "ams": "N4800-E1220/100x200"
+ },
+ {
+  "series": "germany250k",
+  "name": "Plzen",
+  "sheet": "N-50",
+  "title": "File:Map by the US Army Map Service - Plzen - central europe 250k - txu-pclmaps-oclc-6481354-plzen-n-50.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Plzen_-_central_europe_250k_-_txu-pclmaps-oclc-6481354-plzen-n-50.jpg",
+  "cache": "germany250k_Plzen_n-50.jpg",
+  "orig_size": [
+   7112,
+   6163
+  ],
+  "extent": {
+   "lat_s": 49,
+   "lat_n": 50,
+   "lon_w": 12.333333,
+   "lon_e": 14.333333
+  },
+  "ams": "N4900-E1220/100x200"
+ },
+ {
+  "series": "belgium100k",
+  "name": "Quentin",
+  "sheet": "15",
+  "title": "File:Map by the US Army Map Service - Quentin - belgium 100k - txu-pclmaps-oclc-6624417-st-quentin-15.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Quentin_-_belgium_100k_-_txu-pclmaps-oclc-6624417-st-quentin-15.jpg",
+  "cache": "belgium100k_Quentin_15.jpg",
+  "orig_size": [
+   7001,
+   5030
+  ],
+  "extent": {
+   "lat_s": 49.5,
+   "lat_n": 50.0,
+   "lon_w": 3,
+   "lon_e": 4
+  }
+ },
+ {
+  "series": "belgium100k",
+  "name": "Reims",
+  "sheet": "20",
+  "title": "File:Map by the US Army Map Service - Reims - belgium 100k - txu-pclmaps-oclc-6624417-reims-20.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Reims_-_belgium_100k_-_txu-pclmaps-oclc-6624417-reims-20.jpg",
+  "cache": "belgium100k_Reims_20.jpg",
+  "orig_size": [
+   6993,
+   5034
+  ],
+  "extent": {
+   "lat_s": 49,
+   "lat_n": 49.5,
+   "lon_w": 4,
+   "lon_e": 5
+  }
+ },
+ {
+  "series": "germany250k",
+  "name": "Rostock",
+  "sheet": "M-55",
+  "title": "File:Map by the US Army Map Service - Rostock - central europe 250k - txu-pclmaps-oclc-6481354-rostock-m-55.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Rostock_-_central_europe_250k_-_txu-pclmaps-oclc-6481354-rostock-m-55.jpg",
+  "cache": "germany250k_Rostock_m-55.jpg",
+  "orig_size": [
+   7022,
+   6048
+  ],
+  "extent": {
+   "lat_s": 54,
+   "lat_n": 55,
+   "lon_w": 10.333333,
+   "lon_e": 12.333333
+  },
+  "ams": "N5400-E1020/100x200",
+  "corners_px": [
+   [
+    198,
+    285
+   ],
+   [
+    2854,
+    248
+   ],
+   [
+    2910,
+    2511
+   ],
+   [
+    198,
+    2591
+   ]
+  ]
+ },
+ {
+  "series": "germany250k",
+  "name": "Schwerin",
+  "sheet": "M-54",
+  "title": "File:Map by the US Army Map Service - Schwerin - central europe 250k - txu-pclmaps-oclc-6481354-schwerin-m-54.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Schwerin_-_central_europe_250k_-_txu-pclmaps-oclc-6481354-schwerin-m-54.jpg",
+  "cache": "germany250k_Schwerin_m-54.jpg",
+  "orig_size": [
+   7067,
+   6107
+  ],
+  "extent": {
+   "lat_s": 53,
+   "lat_n": 54,
+   "lon_w": 10.333333,
+   "lon_e": 12.333333
+  },
+  "ams": "N5300-E1020/100x200"
+ },
+ {
+  "series": "belgium100k",
+  "name": "Soissons",
+  "sheet": "19",
+  "title": "File:Map by the US Army Map Service - Soissons - belgium 100k - txu-pclmaps-oclc-6624417-soissons-19.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Soissons_-_belgium_100k_-_txu-pclmaps-oclc-6624417-soissons-19.jpg",
+  "cache": "belgium100k_Soissons_19.jpg",
+  "orig_size": [
+   6993,
+   5053
+  ],
+  "extent": {
+   "lat_s": 49,
+   "lat_n": 49.5,
+   "lon_w": 3,
+   "lon_e": 4
+  }
+ },
+ {
+  "series": "germany250k",
+  "name": "Stralsund",
+  "sheet": "N-55",
+  "title": "File:Map by the US Army Map Service - Stralsund - central europe 250k - txu-pclmaps-oclc-6481354-stralsund-n-55.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Stralsund_-_central_europe_250k_-_txu-pclmaps-oclc-6481354-stralsund-n-55.jpg",
+  "cache": "germany250k_Stralsund_n-55.jpg",
+  "orig_size": [
+   7037,
+   6078
+  ],
+  "extent": {
+   "lat_s": 54,
+   "lat_n": 55,
+   "lon_w": 12.333333,
+   "lon_e": 14.333333
+  },
+  "ams": "N5400-E1220/100x200",
+  "corners_px": [
+   [
+    246,
+    256
+   ],
+   [
+    2921,
+    214
+   ],
+   [
+    2971,
+    2518
+   ],
+   [
+    261,
+    2561
+   ]
+  ]
+ },
+ {
+  "series": "germany250k",
+  "name": "Stuttgart",
+  "sheet": "L-49",
+  "title": "File:Map by the US Army Map Service - Stuttgart - central europe 250k - txu-pclmaps-oclc-6481354-stuttgart-l-49.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Stuttgart_-_central_europe_250k_-_txu-pclmaps-oclc-6481354-stuttgart-l-49.jpg",
+  "cache": "germany250k_Stuttgart_l-49.jpg",
+  "orig_size": [
+   7153,
+   6126
+  ],
+  "extent": {
+   "lat_s": 48,
+   "lat_n": 49,
+   "lon_w": 8.333333,
+   "lon_e": 10.333333
+  },
+  "ams": "N4800-E820/100x200"
+ },
+ {
+  "series": "belgium100k",
+  "name": "Tournai",
+  "sheet": "7",
+  "title": "File:Map by the US Army Map Service - Tournai - belgium 100k - txu-pclmaps-oclc-6624417-tournai-7.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Tournai_-_belgium_100k_-_txu-pclmaps-oclc-6624417-tournai-7.jpg",
+  "cache": "belgium100k_Tournai_7.jpg",
+  "orig_size": [
+   6965,
+   5032
+  ],
+  "extent": {
+   "lat_s": 50.5,
+   "lat_n": 51.0,
+   "lon_w": 3,
+   "lon_e": 4
+  }
+ },
+ {
+  "series": "france250k",
+  "name": "Angouleme",
+  "sheet": "24",
+  "title": "File:Map by the US Army Map Service - Angouleme - france 250k - txu-pclmaps-oclc-6621442-angouleme-24.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Angouleme_-_france_250k_-_txu-pclmaps-oclc-6621442-angouleme-24.jpg",
+  "cache": "france250k_Angouleme_24.jpg",
+  "orig_size": [
+   7087,
+   5225
+  ],
+  "extent_approx": {
+   "lat_s": 45.38333,
+   "lat_n": 46.28333,
+   "lon_w": -1.5,
+   "lon_e": 0.41667
+  },
+  "frame_auto": [
+   [
+    182.9,
+    197.0
+   ],
+   [
+    3250.9,
+    201.5
+   ],
+   [
+    3258.3,
+    2260.3
+   ],
+   [
+    184.8,
+    2259.1
+   ]
+  ],
+  "tick_corr": {
+   "top": -3,
+   "left": -3,
+   "bottom": 0,
+   "right": 0
+  },
+  "model": {
+   "kind": "lcc",
+   "p1": 45.38333,
+   "p2": 46.28333,
+   "lat0": 45.83333,
+   "lon0": 2.33722917,
+   "order": 1,
+   "A": [
+    [
+     20.402268,
+     0.025694
+    ],
+    [
+     -0.026699,
+     -20.425016
+    ],
+    [
+     6297.358732,
+     1281.781934
+    ]
+   ],
+   "rms_px": 0.79,
+   "km_per_px": 0.04899,
+   "shifts": {
+    "top": -3,
+    "left": -3,
+    "bottom": 0,
+    "right": 0
+   },
+   "bbox": [
+    45.33333,
+    -1.5567,
+    46.28912,
+    0.42636
+   ]
+  }
+ },
+ {
+  "series": "france250k",
+  "name": "Auxerre",
+  "sheet": "16",
+  "title": "File:Map by the US Army Map Service - Auxerre - france 250k - txu-pclmaps-oclc-6621442-auxerre-16.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Auxerre_-_france_250k_-_txu-pclmaps-oclc-6621442-auxerre-16.jpg",
+  "cache": "france250k_Auxerre_16.jpg",
+  "orig_size": [
+   7453,
+   6628
+  ],
+  "extent_approx": {
+   "lat_s": 47.33333,
+   "lat_n": 48.56667,
+   "lon_w": 2.33333,
+   "lon_e": 4.45
+  },
+  "frame_auto": [
+   [
+    166.5,
+    388.2
+   ],
+   [
+    3295.7,
+    388.2
+   ],
+   [
+    3295.5,
+    3105.8
+   ],
+   [
+    182.7,
+    3099.8
+   ]
+  ],
+  "corners_fix": [
+   [
+    168.2,
+    247.9
+   ],
+   [
+    3290.7,
+    251.9
+   ],
+   [
+    3302.2,
+    2934.0
+   ],
+   [
+    175.8,
+    2926.6
+   ]
+  ],
+  "tick_corr": {
+   "top": 2,
+   "left": 0,
+   "bottom": 0,
+   "right": -1
+  },
+  "model": {
+   "kind": "lcc",
+   "p1": 47.33333,
+   "p2": 48.56667,
+   "lat0": 47.95,
+   "lon0": 2.33722917,
+   "order": 1,
+   "A": [
+    [
+     19.554699,
+     0.033299
+    ],
+    [
+     -0.0697,
+     -19.463322
+    ],
+    [
+     172.226117,
+     1604.771887
+    ]
+   ],
+   "rms_px": 1.65,
+   "km_per_px": 0.05126,
+   "shifts": {
+    "top": 2,
+    "left": 0,
+    "bottom": 0,
+    "right": -1
+   },
+   "bbox": [
+    47.31816,
+    2.33333,
+    48.57742,
+    4.50737
+   ]
+  }
+ },
+ {
+  "series": "france250k",
+  "name": "Avignon",
+  "sheet": "37",
+  "title": "File:Map by the US Army Map Service - Avignon - france 250k - txu-pclmaps-oclc-6621442-avignon-37.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Avignon_-_france_250k_-_txu-pclmaps-oclc-6621442-avignon-37.jpg",
+  "cache": "france250k_Avignon_37.jpg",
+  "orig_size": [
+   6994,
+   5147
+  ],
+  "extent_approx": {
+   "lat_s": 43.63333,
+   "lat_n": 44.53333,
+   "lon_w": 4.2,
+   "lon_e": 6.05
+  },
+  "frame_auto": [
+   [
+    1384.2,
+    196.9
+   ],
+   [
+    3270.5,
+    195.5
+   ],
+   [
+    3260.8,
+    1472.9
+   ],
+   [
+    1389.3,
+    1472.9
+   ]
+  ],
+  "corners_fix": [
+   [
+    134.4,
+    202.0
+   ],
+   [
+    3258.6,
+    200.3
+   ],
+   [
+    3263.9,
+    2281.8
+   ],
+   [
+    144.7,
+    2283.0
+   ]
+  ],
+  "tick_corr": {
+   "top": 3,
+   "left": 0,
+   "bottom": 0,
+   "right": -3
+  },
+  "model": {
+   "kind": "lcc",
+   "p1": 43.63333,
+   "p2": 44.53333,
+   "lat0": 44.08333,
+   "lon0": 2.33722917,
+   "order": 1,
+   "A": [
+    [
+     20.808726,
+     -0.019703
+    ],
+    [
+     -0.063101,
+     -20.688772
+    ],
+    [
+     -2968.80784,
+     1284.068637
+    ]
+   ],
+   "rms_px": 0.85,
+   "km_per_px": 0.0482,
+   "shifts": {
+    "top": 3,
+    "left": 0,
+    "bottom": 0,
+    "right": -3
+   },
+   "bbox": [
+    43.5862,
+    4.19494,
+    44.53667,
+    6.11278
+   ]
+  }
+ },
+ {
+  "series": "france250k",
+  "name": "Bayonne",
+  "sheet": "34-A",
+  "title": "File:Map by the US Army Map Service - Bayonne - france 250k - txu-pclmaps-oclc-6621442-bayonne-34-a.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Bayonne_-_france_250k_-_txu-pclmaps-oclc-6621442-bayonne-34-a.jpg",
+  "cache": "france250k_Bayonne_34-a.jpg",
+  "orig_size": [
+   4187,
+   6643
+  ],
+  "extent_approx": {
+   "lat_s": 42.656,
+   "lat_n": 43.834,
+   "lon_w": -2.182,
+   "lon_e": -1.39
+  },
+  "frame_auto": null,
+  "corners_fix": [
+   [
+    603.1,
+    408.9
+   ],
+   [
+    2857.4,
+    418.1
+   ],
+   [
+    2897.4,
+    4964.2
+   ],
+   [
+    321.8,
+    4974.2
+   ]
+  ],
+  "tick_corr": {
+   "top": 0,
+   "left": 0,
+   "bottom": 1,
+   "right": 2
+  },
+  "model": {
+   "kind": "lcc",
+   "p1": 42.656,
+   "p2": 43.834,
+   "lat0": 43.245,
+   "lon0": 2.33722917,
+   "order": 1,
+   "A": [
+    [
+     34.663794,
+     -0.177094
+    ],
+    [
+     -0.659246,
+     -34.791401
+    ],
+    [
+     13221.071683,
+     2971.710611
+    ]
+   ],
+   "rms_px": 1.0,
+   "km_per_px": 0.02879,
+   "shifts": {
+    "top": 0,
+    "left": 0,
+    "bottom": 1,
+    "right": 2
+   },
+   "bbox": [
+    42.65466,
+    -2.22802,
+    43.86164,
+    -1.32141
+   ]
+  }
+ },
+ {
+  "series": "france250k",
+  "name": "Besancon",
+  "sheet": "23",
+  "title": "File:Map by the US Army Map Service - Besancon - france 250k - txu-pclmaps-oclc-6621442-besancon-23.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Besancon_-_france_250k_-_txu-pclmaps-oclc-6621442-besancon-23.jpg",
+  "cache": "france250k_Besancon_23.jpg",
+  "orig_size": [
+   7473,
+   6159
+  ],
+  "extent_approx": {
+   "lat_s": 46.26667,
+   "lat_n": 47.35,
+   "lon_w": 4.41667,
+   "lon_e": 6.5
+  },
+  "frame_auto": [
+   [
+    199.7,
+    255.2
+   ],
+   [
+    3310.3,
+    251.7
+   ],
+   [
+    3307.9,
+    2604.0
+   ],
+   [
+    191.3,
+    2604.0
+   ]
+  ],
+  "tick_corr": {
+   "top": 3,
+   "left": -2,
+   "bottom": -1,
+   "right": -5
+  },
+  "model": {
+   "kind": "lcc",
+   "p1": 46.26667,
+   "p2": 47.35,
+   "lat0": 46.808335,
+   "lon0": 2.33722917,
+   "order": 1,
+   "A": [
+    [
+     19.497913,
+     0.011213
+    ],
+    [
+     -0.045195,
+     -19.432622
+    ],
+    [
+     -2915.396366,
+     1409.010705
+    ]
+   ],
+   "rms_px": 1.01,
+   "km_per_px": 0.05137,
+   "shifts": {
+    "top": 3,
+    "left": -2,
+    "bottom": -1,
+    "right": -5
+   },
+   "bbox": [
+    46.18333,
+    4.41106,
+    47.32236,
+    6.56869
+   ]
+  }
+ },
+ {
+  "series": "france250k",
+  "name": "Beziers",
+  "sheet": "41",
+  "title": "File:Map by the US Army Map Service - Beziers - france 250k - txu-pclmaps-oclc-6621442-beziers-41.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Beziers_-_france_250k_-_txu-pclmaps-oclc-6621442-beziers-41.jpg",
+  "cache": "france250k_Beziers_41.jpg",
+  "orig_size": [
+   6970,
+   5594
+  ],
+  "extent_approx": {
+   "lat_s": 42.75,
+   "lat_n": 43.65,
+   "lon_w": 2.33333,
+   "lon_e": 4.16667
+  },
+  "frame_auto": [
+   [
+    173.5,
+    264.4
+   ],
+   [
+    3285.4,
+    269.0
+   ],
+   [
+    3312.8,
+    2371.5
+   ],
+   [
+    180.6,
+    2373.8
+   ]
+  ],
+  "tick_corr": {
+   "top": 1,
+   "left": 0,
+   "bottom": 0,
+   "right": -1
+  },
+  "model": {
+   "kind": "lcc",
+   "p1": 42.75,
+   "p2": 43.65,
+   "lat0": 43.2,
+   "lon0": 2.33722917,
+   "order": 1,
+   "A": [
+    [
+     20.846449,
+     0.008231
+    ],
+    [
+     -0.088599,
+     -20.827377
+    ],
+    [
+     177.402574,
+     1316.333523
+    ]
+   ],
+   "rms_px": 0.4,
+   "km_per_px": 0.04799,
+   "shifts": {
+    "top": 1,
+    "left": 0,
+    "bottom": 0,
+    "right": -1
+   },
+   "bbox": [
+    42.7324,
+    2.33421,
+    43.65138,
+    4.19878
+   ]
+  }
+ },
+ {
+  "series": "france250k",
+  "name": "Bordeaux",
+  "sheet": "29",
+  "title": "File:Map by the US Army Map Service - Bordeaux - france 250k - txu-pclmaps-oclc-6621442-bordeaux-29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Bordeaux_-_france_250k_-_txu-pclmaps-oclc-6621442-bordeaux-29.jpg",
+  "cache": "france250k_Bordeaux_29.jpg",
+  "orig_size": [
+   7008,
+   5074
+  ],
+  "extent_approx": {
+   "lat_s": 44.53333,
+   "lat_n": 45.38333,
+   "lon_w": -1.43333,
+   "lon_e": 0.45
+  },
+  "frame_auto": [
+   [
+    163.0,
+    225.3
+   ],
+   [
+    3286.3,
+    210.1
+   ],
+   [
+    3288.3,
+    2185.1
+   ],
+   [
+    163.0,
+    2186.5
+   ]
+  ],
+  "tick_corr": {
+   "top": -3,
+   "left": -3,
+   "bottom": 0,
+   "right": 0
+  },
+  "model": {
+   "kind": "lcc",
+   "p1": 44.53333,
+   "p2": 45.38333,
+   "lat0": 44.95833,
+   "lon0": 2.33722917,
+   "order": 1,
+   "A": [
+    [
+     20.770686,
+     0.048364
+    ],
+    [
+     0.034099,
+     -20.661038
+    ],
+    [
+     6386.786089,
+     1254.821933
+    ]
+   ],
+   "rms_px": 1.05,
+   "km_per_px": 0.04827,
+   "shifts": {
+    "top": -3,
+    "left": -3,
+    "bottom": 0,
+    "right": 0
+   },
+   "bbox": [
+    44.48333,
+    -1.5,
+    45.3903,
+    0.4534
+   ]
+  }
+ },
+ {
+  "series": "france250k",
+  "name": "Brest",
+  "sheet": "13A",
+  "title": "File:Map by the US Army Map Service - Brest - france 250k - txu-pclmaps-oclc-6621442-brest-7a-13a.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Brest_-_france_250k_-_txu-pclmaps-oclc-6621442-brest-7a-13a.jpg",
+  "cache": "france250k_Brest_13a.jpg",
+  "orig_size": [
+   4565,
+   6086
+  ],
+  "extent_approx": {
+   "lat_s": 47.71667,
+   "lat_n": 48.78333,
+   "lon_w": -5.16667,
+   "lon_e": -4.06667
+  },
+  "frame_auto": [
+   [
+    411.4,
+    409.5
+   ],
+   [
+    3048.3,
+    423.8
+   ],
+   [
+    3009.6,
+    4233.0
+   ],
+   [
+    384.5,
+    4238.2
+   ]
+  ],
+  "tick_corr": {
+   "top": -6,
+   "left": -4,
+   "bottom": 2,
+   "right": -1
+  },
+  "model": {
+   "kind": "lcc",
+   "p1": 47.71667,
+   "p2": 48.78333,
+   "lat0": 48.25,
+   "lon0": 2.33722917,
+   "order": 2,
+   "A": [
+    [
+     32.923799,
+     -4.397247
+    ],
+    [
+     -0.465149,
+     -16.450114
+    ],
+    [
+     18434.15923,
+     1482.14838
+    ],
+    [
+     1.134533,
+     -3.156424
+    ],
+    [
+     -0.912383,
+     27.239124
+    ],
+    [
+     0.295266,
+     -1.512564
+    ]
+   ],
+   "rms_px": 1.22,
+   "km_per_px": 0.04289,
+   "shifts": {
+    "top": -6,
+    "left": -4,
+    "bottom": 2,
+    "right": -1
+   },
+   "bbox": [
+    47.64346,
+    -5.29131,
+    48.80915,
+    -4.02543
+   ]
+  }
+ },
+ {
+  "series": "france250k",
+  "name": "Cherbourg and Caen",
+  "sheet": "8",
+  "title": "File:Map by the US Army Map Service - Cherbourg and Caen - france 250k - txu-pclmaps-oclc-6621442-cherbourg-and-caen-3a-8.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Cherbourg_and_Caen_-_france_250k_-_txu-pclmaps-oclc-6621442-cherbourg-and-caen-3a-8.jpg",
+  "cache": "france250k_Cherbourg_and_Caen_8.jpg",
+  "orig_size": [
+   6000,
+   6303
+  ],
+  "extent_approx": {
+   "lat_s": 48.4,
+   "lat_n": 50.01667,
+   "lon_w": -1.98333,
+   "lon_e": 0.16667
+  },
+  "frame_auto": [
+   [
+    185.9,
+    151.9
+   ],
+   [
+    3233.3,
+    150.5
+   ],
+   [
+    3245.3,
+    3593.9
+   ],
+   [
+    195.9,
+    3590.3
+   ]
+  ],
+  "tick_corr": {
+   "top": -6,
+   "left": -3,
+   "bottom": 0,
+   "right": 0
+  },
+  "model": {
+   "kind": "lcc",
+   "p1": 48.4,
+   "p2": 50.01667,
+   "lat0": 49.208335,
+   "lon0": 2.33722917,
+   "order": 1,
+   "A": [
+    [
+     19.129895,
+     -0.120068
+    ],
+    [
+     -0.176772,
+     -19.105865
+    ],
+    [
+     6288.999052,
+     1888.88118
+    ]
+   ],
+   "rms_px": 2.06,
+   "km_per_px": 0.05231,
+   "shifts": {
+    "top": -6,
+    "left": -3,
+    "bottom": 0,
+    "right": 0
+   },
+   "bbox": [
+    48.34356,
+    -2.11653,
+    50.01682,
+    0.17484
+   ]
+  }
+ },
+ {
+  "series": "france250k",
+  "name": "Clermont Ferrand",
+  "sheet": "26",
+  "title": "File:Map by the US Army Map Service - Clermont Ferrand - france 250k - txu-pclmaps-oclc-6621442-clermont-ferrand-26.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Clermont_Ferrand_-_france_250k_-_txu-pclmaps-oclc-6621442-clermont-ferrand-26.jpg",
+  "cache": "france250k_Clermont_Ferrand_26.jpg",
+  "orig_size": [
+   7060,
+   5587
+  ],
+  "extent_approx": {
+   "lat_s": 45.4,
+   "lat_n": 46.3,
+   "lon_w": 2.33333,
+   "lon_e": 4.25
+  },
+  "frame_auto": [
+   [
+    245.6,
+    308.4
+   ],
+   [
+    3346.9,
+    308.7
+   ],
+   [
+    3348.8,
+    2392.2
+   ],
+   [
+    261.0,
+    2375.0
+   ]
+  ],
+  "tick_corr": {
+   "top": 1,
+   "left": 1,
+   "bottom": 0,
+   "right": -1
+  },
+  "model": {
+   "kind": "lcc",
+   "p1": 45.4,
+   "p2": 46.3,
+   "lat0": 45.85,
+   "lon0": 2.33722917,
+   "order": 1,
+   "A": [
+    [
+     20.654687,
+     -0.075479
+    ],
+    [
+     -0.151521,
+     -20.678763
+    ],
+    [
+     253.883681,
+     1364.023663
+    ]
+   ],
+   "rms_px": 0.71,
+   "km_per_px": 0.04839,
+   "shifts": {
+    "top": 1,
+    "left": 1,
+    "bottom": 0,
+    "right": -1
+   },
+   "bbox": [
+    45.38333,
+    2.33333,
+    46.30681,
+    4.2869
+   ]
+  }
+ },
+ {
+  "series": "france250k",
+  "name": "Epinal",
+  "sheet": "17",
+  "title": "File:Map by the US Army Map Service - Epinal - france 250k - txu-pclmaps-oclc-6621442-epinal-17.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Epinal_-_france_250k_-_txu-pclmaps-oclc-6621442-epinal-17.jpg",
+  "cache": "france250k_Epinal_17.jpg",
+  "orig_size": [
+   7514,
+   6980
+  ],
+  "extent_approx": {
+   "lat_s": 47.31667,
+   "lat_n": 48.65,
+   "lon_w": 4.45,
+   "lon_e": 6.56667
+  },
+  "frame_auto": [
+   [
+    284.6,
+    315.7
+   ],
+   [
+    3395.0,
+    324.9
+   ],
+   [
+    3325.6,
+    3220.8
+   ],
+   [
+    296.2,
+    3205.0
+   ]
+  ],
+  "corners_fix": [
+   [
+    292.1,
+    173.0
+   ],
+   [
+    3378.2,
+    185.4
+   ],
+   [
+    3376.4,
+    3056.0
+   ],
+   [
+    289.3,
+    3040.3
+   ]
+  ],
+  "tick_corr": {
+   "top": 5,
+   "left": 0,
+   "bottom": 0,
+   "right": -3
+  },
+  "model": {
+   "kind": "lcc",
+   "p1": 47.31667,
+   "p2": 48.65,
+   "lat0": 47.983335,
+   "lon0": 2.33722917,
+   "order": 1,
+   "A": [
+    [
+     19.313501,
+     0.126698
+    ],
+    [
+     0.001476,
+     -19.316429
+    ],
+    [
+     -2788.797834,
+     1637.454808
+    ]
+   ],
+   "rms_px": 1.67,
+   "km_per_px": 0.05177,
+   "shifts": {
+    "top": 5,
+    "left": 0,
+    "bottom": 0,
+    "right": -3
+   },
+   "bbox": [
+    47.26311,
+    4.45254,
+    48.65288,
+    6.67965
+   ]
+  }
+ },
+ {
+  "series": "france250k",
+  "name": "Grenoble",
+  "sheet": "32",
+  "title": "File:Map by the US Army Map Service - Grenoble - france 250k - txu-pclmaps-oclc-6621442-grenoble-32.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Grenoble_-_france_250k_-_txu-pclmaps-oclc-6621442-grenoble-32.jpg",
+  "cache": "france250k_Grenoble_32.jpg",
+  "orig_size": [
+   6915,
+   5042
+  ],
+  "extent_approx": {
+   "lat_s": 44.53333,
+   "lat_n": 45.38333,
+   "lon_w": 4.21667,
+   "lon_e": 6.1
+  },
+  "frame_auto": [
+   [
+    114.0,
+    260.1
+   ],
+   [
+    3281.9,
+    262.5
+   ],
+   [
+    3273.0,
+    2227.0
+   ],
+   [
+    120.0,
+    2227.0
+   ]
+  ],
+  "corners_fix": [
+   [
+    119.2,
+    221.6
+   ],
+   [
+    3272.8,
+    222.4
+   ],
+   [
+    3279.4,
+    2223.9
+   ],
+   [
+    123.6,
+    2222.3
+   ]
+  ],
+  "tick_corr": {
+   "top": 3,
+   "left": 0,
+   "bottom": 1,
+   "right": -3
+  },
+  "model": {
+   "kind": "lcc",
+   "p1": 44.53333,
+   "p2": 45.38333,
+   "lat0": 44.95833,
+   "lon0": 2.33722917,
+   "order": 1,
+   "A": [
+    [
+     21.031591,
+     5.8e-05
+    ],
+    [
+     -0.056016,
+     -20.996464
+    ],
+    [
+     -3019.405588,
+     1265.084646
+    ]
+   ],
+   "rms_px": 0.61,
+   "km_per_px": 0.04759,
+   "shifts": {
+    "top": 3,
+    "left": 0,
+    "bottom": 1,
+    "right": -3
+   },
+   "bbox": [
+    44.48333,
+    4.22117,
+    45.38955,
+    6.16815
+   ]
+  }
+ },
+ {
+  "series": "france250k",
+  "name": "La Roche Sur Yon",
+  "sheet": "20",
+  "title": "File:Map by the US Army Map Service - La Roche Sur Yon - france 250k - txu-pclmaps-oclc-6621442-la-roche-sur-yon-20.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_La_Roche_Sur_Yon_-_france_250k_-_txu-pclmaps-oclc-6621442-la-roche-sur-yon-20.jpg",
+  "cache": "france250k_La_Roche_Sur_Yon_20.jpg",
+  "orig_size": [
+   6960,
+   4739
+  ],
+  "extent_approx": {
+   "lat_s": 46.23333,
+   "lat_n": 47.31667,
+   "lon_w": -2.3,
+   "lon_e": 0.26667
+  },
+  "frame_auto": [
+   [
+    183.2,
+    204.2
+   ],
+   [
+    3407.6,
+    206.6
+   ],
+   [
+    3409.8,
+    2157.2
+   ],
+   [
+    186.7,
+    2154.9
+   ]
+  ],
+  "tick_corr": {
+   "top": -4,
+   "left": -4,
+   "bottom": 0,
+   "right": 0
+  },
+  "model": {
+   "kind": "lcc",
+   "p1": 46.23333,
+   "p2": 47.31667,
+   "lat0": 46.775,
+   "lon0": 2.33722917,
+   "order": 1,
+   "A": [
+    [
+     16.258393,
+     -0.051468
+    ],
+    [
+     -0.060307,
+     -15.966639
+    ],
+    [
+     5998.364117,
+     1216.259028
+    ]
+   ],
+   "rms_px": 1.22,
+   "km_per_px": 0.06207,
+   "shifts": {
+    "top": -4,
+    "left": -4,
+    "bottom": 0,
+    "right": 0
+   },
+   "bbox": [
+    46.16321,
+    -2.4,
+    47.32778,
+    0.26336
+   ]
+  }
+ },
+ {
+  "series": "france250k",
+  "name": "Limoges",
+  "sheet": "25",
+  "title": "File:Map by the US Army Map Service - Limoges - france 250k - txu-pclmaps-oclc-6621442-limoges-25.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Limoges_-_france_250k_-_txu-pclmaps-oclc-6621442-limoges-25.jpg",
+  "cache": "france250k_Limoges_25.jpg",
+  "orig_size": [
+   7012,
+   5183
+  ],
+  "extent_approx": {
+   "lat_s": 45.38333,
+   "lat_n": 46.28333,
+   "lon_w": 0.41667,
+   "lon_e": 2.33333
+  },
+  "frame_auto": [
+   [
+    167.8,
+    202.4
+   ],
+   [
+    3278.4,
+    195.5
+   ],
+   [
+    3262.9,
+    2280.1
+   ],
+   [
+    153.5,
+    2281.5
+   ]
+  ],
+  "tick_corr": {
+   "top": 0,
+   "left": 0,
+   "bottom": 0,
+   "right": 1
+  },
+  "model": {
+   "kind": "lcc",
+   "p1": 45.38333,
+   "p2": 46.28333,
+   "lat0": 45.83333,
+   "lon0": 2.33722917,
+   "order": 1,
+   "A": [
+    [
+     20.724244,
+     0.077532
+    ],
+    [
+     -0.055212,
+     -20.736761
+    ],
+    [
+     3262.395254,
+     1294.954327
+    ]
+   ],
+   "rms_px": 0.63,
+   "km_per_px": 0.04824,
+   "shifts": {
+    "top": 0,
+    "left": 0,
+    "bottom": 0,
+    "right": 1
+   },
+   "bbox": [
+    45.38333,
+    0.39014,
+    46.30663,
+    2.34216
+   ]
+  }
+ },
+ {
+  "series": "france250k",
+  "name": "Lyon",
+  "sheet": "27",
+  "title": "File:Map by the US Army Map Service - Lyon - france 250k - txu-pclmaps-oclc-6621442-lyon-27.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Lyon_-_france_250k_-_txu-pclmaps-oclc-6621442-lyon-27.jpg",
+  "cache": "france250k_Lyon_27.jpg",
+  "orig_size": [
+   6949,
+   5116
+  ],
+  "extent_approx": {
+   "lat_s": 45.38333,
+   "lat_n": 46.28333,
+   "lon_w": 4.25,
+   "lon_e": 6.16667
+  },
+  "frame_auto": [
+   [
+    169.5,
+    191.3
+   ],
+   [
+    3292.3,
+    183.2
+   ],
+   [
+    3298.6,
+    2272.5
+   ],
+   [
+    172.7,
+    2281.8
+   ]
+  ],
+  "tick_corr": {
+   "top": 3,
+   "left": 0,
+   "bottom": 0,
+   "right": -3
+  },
+  "model": {
+   "kind": "lcc",
+   "p1": 45.38333,
+   "p2": 46.28333,
+   "lat0": 45.83333,
+   "lon0": 2.33722917,
+   "order": 1,
+   "A": [
+    [
+     20.89043,
+     0.006951
+    ],
+    [
+     -0.050244,
+     -20.78745
+    ],
+    [
+     -2952.942486,
+     1278.317649
+    ]
+   ],
+   "rms_px": 0.94,
+   "km_per_px": 0.04799,
+   "shifts": {
+    "top": 3,
+    "left": 0,
+    "bottom": 0,
+    "right": -3
+   },
+   "bbox": [
+    45.33684,
+    4.24869,
+    46.29003,
+    6.22924
+   ]
+  }
+ },
+ {
+  "series": "france250k",
+  "name": "Marseilles",
+  "sheet": "42",
+  "title": "File:Map by the US Army Map Service - Marseilles - france 250k - txu-pclmaps-oclc-6621442-marseilles-42.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Marseilles_-_france_250k_-_txu-pclmaps-oclc-6621442-marseilles-42.jpg",
+  "cache": "france250k_Marseilles_42.jpg",
+  "orig_size": [
+   6989,
+   5102
+  ],
+  "extent_approx": {
+   "lat_s": 42.73333,
+   "lat_n": 43.63333,
+   "lon_w": 4.16667,
+   "lon_e": 6.0
+  },
+  "frame_auto": [
+   [
+    170.0,
+    189.6
+   ],
+   [
+    3308.3,
+    196.6
+   ],
+   [
+    3309.2,
+    2283.6
+   ],
+   [
+    170.0,
+    2283.4
+   ]
+  ],
+  "tick_corr": {
+   "top": 2,
+   "left": 0,
+   "bottom": 0,
+   "right": -3
+  },
+  "model": {
+   "kind": "lcc",
+   "p1": 42.73333,
+   "p2": 43.63333,
+   "lat0": 43.18333,
+   "lon0": 2.33722917,
+   "order": 1,
+   "A": [
+    [
+     20.893587,
+     0.056072
+    ],
+    [
+     0.038793,
+     -20.739986
+    ],
+    [
+     -2946.524791,
+     1262.558089
+    ]
+   ],
+   "rms_px": 0.96,
+   "km_per_px": 0.04804,
+   "shifts": {
+    "top": 2,
+    "left": 0,
+    "bottom": 0,
+    "right": -3
+   },
+   "bbox": [
+    42.68606,
+    4.16667,
+    43.63636,
+    6.05171
+   ]
+  }
+ },
+ {
+  "series": "france250k",
+  "name": "Millau",
+  "sheet": "36",
+  "title": "File:Map by the US Army Map Service - Millau - france 250k - txu-pclmaps-oclc-6621442-millau-36.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Millau_-_france_250k_-_txu-pclmaps-oclc-6621442-millau-36.jpg",
+  "cache": "france250k_Millau_36.jpg",
+  "orig_size": [
+   7082,
+   5203
+  ],
+  "extent_approx": {
+   "lat_s": 43.65,
+   "lat_n": 44.55,
+   "lon_w": 2.33333,
+   "lon_e": 4.2
+  },
+  "frame_auto": [
+   [
+    194.0,
+    206.2
+   ],
+   [
+    3254.2,
+    221.9
+   ],
+   [
+    3255.1,
+    2270.7
+   ],
+   [
+    178.3,
+    2258.9
+   ]
+  ],
+  "tick_corr": {
+   "top": 1,
+   "left": 0,
+   "bottom": 0,
+   "right": -1
+  },
+  "model": {
+   "kind": "lcc",
+   "p1": 43.65,
+   "p2": 44.55,
+   "lat0": 44.1,
+   "lon0": 2.33722917,
+   "order": 1,
+   "A": [
+    [
+     20.497372,
+     0.0621
+    ],
+    [
+     -0.012922,
+     -20.479154
+    ],
+    [
+     187.501894,
+     1235.495036
+    ]
+   ],
+   "rms_px": 0.61,
+   "km_per_px": 0.04881,
+   "shifts": {
+    "top": 1,
+    "left": 0,
+    "bottom": 0,
+    "right": -1
+   },
+   "bbox": [
+    43.63211,
+    2.33333,
+    44.55109,
+    4.22821
+   ]
+  }
+ },
+ {
+  "series": "france250k",
+  "name": "Mont de Marsan",
+  "sheet": "34",
+  "title": "File:Map by the US Army Map Service - Mont de Marsan - france 250k - txu-pclmaps-oclc-6621442-mont-de-marsan-34.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Mont_de_Marsan_-_france_250k_-_txu-pclmaps-oclc-6621442-mont-de-marsan-34.jpg",
+  "cache": "france250k_Mont_de_Marsan_34.jpg",
+  "orig_size": [
+   7082,
+   5122
+  ],
+  "extent_approx": {
+   "lat_s": 43.63333,
+   "lat_n": 44.53333,
+   "lon_w": -1.36667,
+   "lon_e": 0.48333
+  },
+  "frame_auto": [
+   [
+    227.7,
+    211.5
+   ],
+   [
+    3300.3,
+    206.9
+   ],
+   [
+    3309.8,
+    2247.5
+   ],
+   [
+    236.2,
+    2249.8
+   ]
+  ],
+  "tick_corr": {
+   "top": -3,
+   "left": -3,
+   "bottom": 0,
+   "right": 0
+  },
+  "model": {
+   "kind": "lcc",
+   "p1": 43.63333,
+   "p2": 44.53333,
+   "lat0": 44.08333,
+   "lon0": 2.33722917,
+   "order": 1,
+   "A": [
+    [
+     20.571269,
+     -0.021095
+    ],
+    [
+     -0.059969,
+     -20.366562
+    ],
+    [
+     6380.415861,
+     1261.249437
+    ]
+   ],
+   "rms_px": 1.55,
+   "km_per_px": 0.04886,
+   "shifts": {
+    "top": -3,
+    "left": -3,
+    "bottom": 0,
+    "right": 0
+   },
+   "bbox": [
+    43.58651,
+    -1.43569,
+    44.53641,
+    0.48326
+   ]
+  }
+ },
+ {
+  "series": "france250k",
+  "name": "Montauban",
+  "sheet": "35",
+  "title": "File:Map by the US Army Map Service - Montauban - france 250k - txu-pclmaps-oclc-6621442-montauban-35.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Montauban_-_france_250k_-_txu-pclmaps-oclc-6621442-montauban-35.jpg",
+  "cache": "france250k_Montauban_35.jpg",
+  "orig_size": [
+   6889,
+   5407
+  ],
+  "extent_approx": {
+   "lat_s": 43.63333,
+   "lat_n": 44.53333,
+   "lon_w": 0.48333,
+   "lon_e": 2.33333
+  },
+  "frame_auto": [
+   [
+    153.5,
+    290.7
+   ],
+   [
+    3328.0,
+    291.6
+   ],
+   [
+    3324.9,
+    2420.3
+   ],
+   [
+    152.1,
+    2418.9
+   ]
+  ],
+  "tick_corr": {
+   "top": -1,
+   "left": 0,
+   "bottom": 0,
+   "right": 1
+  },
+  "model": {
+   "kind": "lcc",
+   "p1": 43.63333,
+   "p2": 44.53333,
+   "lat0": 44.08333,
+   "lon0": 2.33722917,
+   "order": 1,
+   "A": [
+    [
+     21.106731,
+     0.001996
+    ],
+    [
+     -0.077022,
+     -21.060786
+    ],
+    [
+     3317.147053,
+     1394.676137
+    ]
+   ],
+   "rms_px": 0.47,
+   "km_per_px": 0.04743,
+   "shifts": {
+    "top": -1,
+    "left": 0,
+    "bottom": 0,
+    "right": 1
+   },
+   "bbox": [
+    43.63283,
+    0.4459,
+    44.55232,
+    2.34086
+   ]
+  }
+ },
+ {
+  "series": "france250k",
+  "name": "Moullins",
+  "sheet": "22",
+  "title": "File:Map by the US Army Map Service - Moullins - france 250k - txu-pclmaps-oclc-6621442-moulins-22.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Moullins_-_france_250k_-_txu-pclmaps-oclc-6621442-moulins-22.jpg",
+  "cache": "france250k_Moullins_22.jpg",
+  "orig_size": [
+   7494,
+   5969
+  ],
+  "extent_approx": {
+   "lat_s": 46.26667,
+   "lat_n": 47.35,
+   "lon_w": 2.33333,
+   "lon_e": 4.41667
+  },
+  "frame_auto": [
+   [
+    271.9,
+    191.4
+   ],
+   [
+    3375.5,
+    206.1
+   ],
+   [
+    3363.8,
+    2524.0
+   ],
+   [
+    272.0,
+    2531.3
+   ]
+  ],
+  "tick_corr": {
+   "top": 2,
+   "left": 0,
+   "bottom": 0,
+   "right": -2
+  },
+  "model": {
+   "kind": "lcc",
+   "p1": 46.26667,
+   "p2": 47.35,
+   "lat0": 46.808335,
+   "lon0": 2.33722917,
+   "order": 1,
+   "A": [
+    [
+     19.407356,
+     -0.01645
+    ],
+    [
+     -0.040602,
+     -19.349251
+    ],
+    [
+     271.056107,
+     1344.472089
+    ]
+   ],
+   "rms_px": 0.58,
+   "km_per_px": 0.0516,
+   "shifts": {
+    "top": 2,
+    "left": 0,
+    "bottom": 0,
+    "right": -2
+   },
+   "bbox": [
+    46.24058,
+    2.3337,
+    47.33923,
+    4.45407
+   ]
+  }
+ },
+ {
+  "series": "france250k",
+  "name": "Orleans",
+  "sheet": "15",
+  "title": "File:Map by the US Army Map Service - Orleans - france 250k - txu-pclmaps-oclc-6621442-orleans-15.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Orleans_-_france_250k_-_txu-pclmaps-oclc-6621442-orleans-15.jpg",
+  "cache": "france250k_Orleans_15.jpg",
+  "orig_size": [
+   7297,
+   6118
+  ],
+  "extent_approx": {
+   "lat_s": 47.31667,
+   "lat_n": 48.45,
+   "lon_w": 0.21667,
+   "lon_e": 2.33333
+  },
+  "frame_auto": [
+   [
+    151.4,
+    376.5
+   ],
+   [
+    3337.8,
+    376.5
+   ],
+   [
+    3343.9,
+    2924.2
+   ],
+   [
+    154.6,
+    2924.7
+   ]
+  ],
+  "corners_fix": [
+   [
+    146.0,
+    242.9
+   ],
+   [
+    3332.2,
+    233.5
+   ],
+   [
+    3349.9,
+    2742.6
+   ],
+   [
+    159.3,
+    2749.8
+   ]
+  ],
+  "tick_corr": {
+   "top": -1,
+   "left": 0,
+   "bottom": 0,
+   "right": 1
+  },
+  "model": {
+   "kind": "lcc",
+   "p1": 47.31667,
+   "p2": 48.45,
+   "lat0": 47.883335,
+   "lon0": 2.33722917,
+   "order": 1,
+   "A": [
+    [
+     19.94836,
+     -0.072334
+    ],
+    [
+     -0.137216,
+     -19.887123
+    ],
+    [
+     3338.512541,
+     1534.216922
+    ]
+   ],
+   "rms_px": 1.09,
+   "km_per_px": 0.05021,
+   "shifts": {
+    "top": -1,
+    "left": 0,
+    "bottom": 0,
+    "right": 1
+   },
+   "bbox": [
+    47.31875,
+    0.16667,
+    48.47154,
+    2.33942
+   ]
+  }
+ },
+ {
+  "series": "france250k",
+  "name": "Perigeux",
+  "sheet": "30",
+  "title": "File:Map by the US Army Map Service - Perigeux - france 250k - txu-pclmaps-oclc-6621442-perigueux-30.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Perigeux_-_france_250k_-_txu-pclmaps-oclc-6621442-perigueux-30.jpg",
+  "cache": "france250k_Perigeux_30.jpg",
+  "orig_size": [
+   6967,
+   5048
+  ],
+  "extent_approx": {
+   "lat_s": 44.53333,
+   "lat_n": 45.38333,
+   "lon_w": 0.45,
+   "lon_e": 2.33333
+  },
+  "frame_auto": [
+   [
+    179.7,
+    246.9
+   ],
+   [
+    3311.6,
+    254.1
+   ],
+   [
+    3314.4,
+    2232.4
+   ],
+   [
+    181.8,
+    2224.2
+   ]
+  ],
+  "tick_corr": {
+   "top": -1,
+   "left": 0,
+   "bottom": 0,
+   "right": 1
+  },
+  "model": {
+   "kind": "lcc",
+   "p1": 44.53333,
+   "p2": 45.38333,
+   "lat0": 44.95833,
+   "lon0": 2.33722917,
+   "order": 1,
+   "A": [
+    [
+     20.931858,
+     0.050839
+    ],
+    [
+     -0.040761,
+     -20.8595
+    ],
+    [
+     3311.503484,
+     1288.223663
+    ]
+   ],
+   "rms_px": 0.53,
+   "km_per_px": 0.04786,
+   "shifts": {
+    "top": -1,
+    "left": 0,
+    "bottom": 0,
+    "right": 1
+   },
+   "bbox": [
+    44.53331,
+    0.4193,
+    45.40631,
+    2.34158
+   ]
+  }
+ },
+ {
+  "series": "france250k",
+  "name": "Poitiers",
+  "sheet": "21",
+  "title": "File:Map by the US Army Map Service - Poitiers - france 250k - txu-pclmaps-oclc-6621442-poitiers-21.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Poitiers_-_france_250k_-_txu-pclmaps-oclc-6621442-poitiers-21.jpg",
+  "cache": "france250k_Poitiers_21.jpg",
+  "orig_size": [
+   7462,
+   6019
+  ],
+  "extent_approx": {
+   "lat_s": 46.23333,
+   "lat_n": 47.31667,
+   "lon_w": 0.26667,
+   "lon_e": 2.33333
+  },
+  "frame_auto": [
+   [
+    239.4,
+    228.0
+   ],
+   [
+    3351.5,
+    218.7
+   ],
+   [
+    3355.9,
+    2554.7
+   ],
+   [
+    228.9,
+    2564.0
+   ]
+  ],
+  "tick_corr": {
+   "top": -1,
+   "left": 0,
+   "bottom": 0,
+   "right": 2
+  },
+  "model": {
+   "kind": "lcc",
+   "p1": 46.23333,
+   "p2": 47.31667,
+   "lat0": 46.775,
+   "lon0": 2.33722917,
+   "order": 1,
+   "A": [
+    [
+     19.499803,
+     0.017337
+    ],
+    [
+     -0.050399,
+     -19.42024
+    ],
+    [
+     3347.308226,
+     1446.233738
+    ]
+   ],
+   "rms_px": 0.61,
+   "km_per_px": 0.05139,
+   "shifts": {
+    "top": -1,
+    "left": 0,
+    "bottom": 0,
+    "right": 2
+   },
+   "bbox": [
+    46.24063,
+    0.21698,
+    47.34053,
+    2.33972
+   ]
+  }
+ },
+ {
+  "series": "france250k",
+  "name": "Rennes",
+  "sheet": "14",
+  "title": "File:Map by the US Army Map Service - Rennes - france 250k - txu-pclmaps-oclc-6621442-rennes-14.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Rennes_-_france_250k_-_txu-pclmaps-oclc-6621442-rennes-14.jpg",
+  "cache": "france250k_Rennes_14.jpg",
+  "extent_approx": {
+   "lat_s": 47.31667,
+   "lat_n": 48.4,
+   "lon_w": -1.9,
+   "lon_e": 0.21667
+  },
+  "frame_auto": [
+   [
+    169.4,
+    266.0
+   ],
+   [
+    3291.5,
+    262.1
+   ],
+   [
+    3307.0,
+    2615.3
+   ],
+   [
+    181.0,
+    2615.3
+   ]
+  ],
+  "tick_corr": {
+   "top": -4,
+   "left": -3,
+   "bottom": 0,
+   "right": 0
+  },
+  "model": {
+   "kind": "lcc",
+   "p1": 47.31667,
+   "p2": 48.4,
+   "lat0": 47.858335,
+   "lon0": 2.33722917,
+   "order": 1,
+   "A": [
+    [
+     19.524468,
+     -0.162561
+    ],
+    [
+     -0.176754,
+     -19.526033
+    ],
+    [
+     6412.288922,
+     1455.370881
+    ]
+   ],
+   "rms_px": 1.06,
+   "km_per_px": 0.05121,
+   "shifts": {
+    "top": -4,
+    "left": -3,
+    "bottom": 0,
+    "right": 0
+   },
+   "bbox": [
+    47.26499,
+    -1.98654,
+    48.40241,
+    0.22385
+   ]
+  }
+ },
+ {
+  "series": "france250k",
+  "name": "Saint Brieuc",
+  "sheet": "7",
+  "title": "File:Map by the US Army Map Service - Saint Brieuc - france 250k - txu-pclmaps-oclc-6621442-st-brieuc-7.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Saint_Brieuc_-_france_250k_-_txu-pclmaps-oclc-6621442-st-brieuc-7.jpg",
+  "cache": "france250k_Saint_Brieuc_7.jpg",
+  "orig_size": [
+   6454,
+   5253
+  ],
+  "extent_approx": {
+   "lat_s": 48.35,
+   "lat_n": 49.41667,
+   "lon_w": -4.13333,
+   "lon_e": -1.98333
+  },
+  "frame_auto": [
+   [
+    153.8,
+    251.3
+   ],
+   [
+    3269.5,
+    247.7
+   ],
+   [
+    3277.1,
+    2583.8
+   ],
+   [
+    161.0,
+    2580.3
+   ]
+  ],
+  "tick_corr": {
+   "top": -7,
+   "left": -6,
+   "bottom": 0,
+   "right": 0
+  },
+  "model": {
+   "kind": "lcc",
+   "p1": 48.35,
+   "p2": 49.41667,
+   "lat0": 48.883335,
+   "lon0": 2.33722917,
+   "order": 1,
+   "A": [
+    [
+     19.439482,
+     -0.142649
+    ],
+    [
+     -0.2279,
+     -19.429919
+    ],
+    [
+     9469.29113,
+     1542.44119
+    ]
+   ],
+   "rms_px": 1.6,
+   "km_per_px": 0.05145,
+   "shifts": {
+    "top": -7,
+    "left": -6,
+    "bottom": 0,
+    "right": 0
+   },
+   "bbox": [
+    48.24808,
+    -4.27736,
+    49.42295,
+    -1.97996
+   ]
+  }
+ },
+ {
+  "series": "france250k",
+  "name": "Saint Flour",
+  "sheet": "31",
+  "title": "File:Map by the US Army Map Service - Saint Flour - france 250k - txu-pclmaps-oclc-6621442-saint-flour-31.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Saint_Flour_-_france_250k_-_txu-pclmaps-oclc-6621442-saint-flour-31.jpg",
+  "cache": "france250k_Saint_Flour_31.jpg",
+  "orig_size": [
+   7033,
+   5545
+  ],
+  "extent_approx": {
+   "lat_s": 44.55,
+   "lat_n": 45.4,
+   "lon_w": 2.33333,
+   "lon_e": 4.21667
+  },
+  "frame_auto": [
+   [
+    228.5,
+    371.0
+   ],
+   [
+    3323.5,
+    361.8
+   ],
+   [
+    3326.5,
+    2341.5
+   ],
+   [
+    217.3,
+    2343.7
+   ]
+  ],
+  "tick_corr": {
+   "top": 1,
+   "left": 0,
+   "bottom": 0,
+   "right": -1
+  },
+  "model": {
+   "kind": "lcc",
+   "p1": 44.55,
+   "p2": 45.4,
+   "lat0": 44.975,
+   "lon0": 2.33722917,
+   "order": 1,
+   "A": [
+    [
+     20.717241,
+     0.066975
+    ],
+    [
+     -0.019255,
+     -20.71774
+    ],
+    [
+     226.705944,
+     1354.339453
+    ]
+   ],
+   "rms_px": 0.54,
+   "km_per_px": 0.04827,
+   "shifts": {
+    "top": 1,
+    "left": 0,
+    "bottom": 0,
+    "right": -1
+   },
+   "bbox": [
+    44.53262,
+    2.33382,
+    45.40559,
+    4.25407
+   ]
+  }
+ },
+ {
+  "series": "france250k",
+  "name": "Saint Raphael",
+  "sheet": "43",
+  "title": "File:Map by the US Army Map Service - Saint Raphael - france 250k - txu-pclmaps-oclc-6621442-st-raphael-43.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Saint_Raphael_-_france_250k_-_txu-pclmaps-oclc-6621442-st-raphael-43.jpg",
+  "cache": "france250k_Saint_Raphael_43.jpg",
+  "orig_size": [
+   6977,
+   5515
+  ],
+  "extent_approx": {
+   "lat_s": 42.68333,
+   "lat_n": 43.58333,
+   "lon_w": 6.0,
+   "lon_e": 7.81667
+  },
+  "frame_auto": [
+   [
+    150.1,
+    335.3
+   ],
+   [
+    3281.8,
+    335.3
+   ],
+   [
+    3299.8,
+    2433.8
+   ],
+   [
+    167.9,
+    2425.8
+   ]
+  ],
+  "tick_corr": {
+   "top": 4,
+   "left": 1,
+   "bottom": 0,
+   "right": -4
+  },
+  "model": {
+   "kind": "lcc",
+   "p1": 42.68333,
+   "p2": 43.58333,
+   "lat0": 43.13333,
+   "lon0": 2.33722917,
+   "order": 1,
+   "A": [
+    [
+     20.841232,
+     -0.14841
+    ],
+    [
+     -0.160302,
+     -20.806365
+    ],
+    [
+     -6067.26511,
+     1589.965478
+    ]
+   ],
+   "rms_px": 0.9,
+   "km_per_px": 0.04802,
+   "shifts": {
+    "top": 4,
+    "left": 1,
+    "bottom": 0,
+    "right": -4
+   },
+   "bbox": [
+    42.6124,
+    5.99467,
+    43.59085,
+    7.90623
+   ]
+  }
+ },
+ {
+  "series": "france250k",
+  "name": "Tarbes",
+  "sheet": "39",
+  "title": "File:Map by the US Army Map Service - Tarbes - france 250k - txu-pclmaps-oclc-6621442-tarbes-39.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Tarbes_-_france_250k_-_txu-pclmaps-oclc-6621442-tarbes-39.jpg",
+  "cache": "france250k_Tarbes_39.jpg",
+  "orig_size": [
+   7066,
+   5269
+  ],
+  "extent_approx": {
+   "lat_s": 42.73333,
+   "lat_n": 43.63333,
+   "lon_w": -1.31667,
+   "lon_e": 0.51667
+  },
+  "frame_auto": [
+   [
+    183.6,
+    174.4
+   ],
+   [
+    3255.3,
+    167.0
+   ],
+   [
+    3254.5,
+    2219.1
+   ],
+   [
+    170.1,
+    2226.6
+   ]
+  ],
+  "tick_corr": {
+   "top": -3,
+   "left": -3,
+   "bottom": -1,
+   "right": 0
+  },
+  "model": {
+   "kind": "lcc",
+   "p1": 42.73333,
+   "p2": 43.63333,
+   "lat0": 43.18333,
+   "lon0": 2.33722917,
+   "order": 1,
+   "A": [
+    [
+     20.590413,
+     0.07029
+    ],
+    [
+     -0.040914,
+     -20.417368
+    ],
+    [
+     6334.326702,
+     1248.272289
+    ]
+   ],
+   "rms_px": 1.45,
+   "km_per_px": 0.04877,
+   "shifts": {
+    "top": -3,
+    "left": -3,
+    "bottom": -1,
+    "right": 0
+   },
+   "bbox": [
+    42.68846,
+    -1.37653,
+    43.63622,
+    0.50804
+   ]
+  }
+ },
+ {
+  "series": "france250k",
+  "name": "Toulouse",
+  "sheet": "40",
+  "title": "File:Map by the US Army Map Service - Toulouse - france 250k - txu-pclmaps-oclc-6621442-toulouse-40.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Toulouse_-_france_250k_-_txu-pclmaps-oclc-6621442-toulouse-40.jpg",
+  "cache": "france250k_Toulouse_40.jpg",
+  "orig_size": [
+   7022,
+   5554
+  ],
+  "extent_approx": {
+   "lat_s": 42.73333,
+   "lat_n": 43.63333,
+   "lon_w": 0.5,
+   "lon_e": 2.33333
+  },
+  "frame_auto": [
+   [
+    150.6,
+    293.1
+   ],
+   [
+    3263.9,
+    301.3
+   ],
+   [
+    3265.2,
+    2385.8
+   ],
+   [
+    167.1,
+    2359.2
+   ]
+  ],
+  "tick_corr": {
+   "top": 0,
+   "left": 0,
+   "bottom": 0,
+   "right": 1
+  },
+  "model": {
+   "kind": "lcc",
+   "p1": 42.73333,
+   "p2": 43.63333,
+   "lat0": 43.18333,
+   "lon0": 2.33722917,
+   "order": 1,
+   "A": [
+    [
+     20.708584,
+     -0.02417
+    ],
+    [
+     -0.083191,
+     -20.644575
+    ],
+    [
+     3256.538513,
+     1370.209881
+    ]
+   ],
+   "rms_px": 0.51,
+   "km_per_px": 0.04836,
+   "shifts": {
+    "top": 0,
+    "left": 0,
+    "bottom": 0,
+    "right": 1
+   },
+   "bbox": [
+    42.73352,
+    0.47643,
+    43.65163,
+    2.34179
+   ]
+  }
+ },
+ {
+  "series": "france250k",
+  "name": "Vannes",
+  "sheet": "13",
+  "title": "File:Map by the US Army Map Service - Vannes - france 250k - txu-pclmaps-oclc-6621442-vannes-13.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Vannes_-_france_250k_-_txu-pclmaps-oclc-6621442-vannes-13.jpg",
+  "cache": "france250k_Vannes_13.jpg",
+  "orig_size": [
+   7474,
+   6038
+  ],
+  "extent_approx": {
+   "lat_s": 47.26667,
+   "lat_n": 48.35,
+   "lon_w": -4.0,
+   "lon_e": -1.9
+  },
+  "frame_auto": [
+   [
+    231.3,
+    223.5
+   ],
+   [
+    3338.5,
+    226.0
+   ],
+   [
+    3345.0,
+    2575.7
+   ],
+   [
+    252.9,
+    2577.0
+   ]
+  ],
+  "tick_corr": {
+   "top": -7,
+   "left": -6,
+   "bottom": 0,
+   "right": 0
+  },
+  "model": {
+   "kind": "lcc",
+   "p1": 47.26667,
+   "p2": 48.35,
+   "lat0": 47.808335,
+   "lon0": 2.33722917,
+   "order": 1,
+   "A": [
+    [
+     19.416864,
+     -0.12525
+    ],
+    [
+     -0.108973,
+     -19.508826
+    ],
+    [
+     9537.35705,
+     1517.621519
+    ]
+   ],
+   "rms_px": 0.79,
+   "km_per_px": 0.05138,
+   "shifts": {
+    "top": -7,
+    "left": -6,
+    "bottom": 0,
+    "right": 0
+   },
+   "bbox": [
+    47.17054,
+    -4.13932,
+    48.3444,
+    -1.89147
+   ]
+  }
+ }
+]

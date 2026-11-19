@@ -1,0 +1,11 @@
+# caches de téléchargement et de calcul (plusieurs Go, régénérables)
+scripts/.cache/
+__pycache__/
+# environnements Python
+scripts/.venv/
+scripts/.venv-exe/
+# exécutables : publiés dans les Releases GitHub (trop gros pour le dépôt)
+WW2Map.exe
+dist/
+# réglages locaux de l'éditeur
+.claude/

@@ -1,0 +1,854 @@
+[
+ {
+  "series": "belgium100k",
+  "name": "Amiens",
+  "sheet": "14",
+  "title": "File:Map by the US Army Map Service - Amiens - belgium 100k - txu-pclmaps-oclc-6624417-amiens-14.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Amiens_-_belgium_100k_-_txu-pclmaps-oclc-6624417-amiens-14.jpg",
+  "cache": "belgium100k_Amiens_14.jpg",
+  "orig_size": [
+   6973,
+   5043
+  ]
+ },
+ {
+  "series": "france250k",
+  "name": "Angouleme",
+  "sheet": "24",
+  "title": "File:Map by the US Army Map Service - Angouleme - france 250k - txu-pclmaps-oclc-6621442-angouleme-24.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Angouleme_-_france_250k_-_txu-pclmaps-oclc-6621442-angouleme-24.jpg",
+  "cache": "france250k_Angouleme_24.jpg",
+  "orig_size": [
+   7087,
+   5225
+  ]
+ },
+ {
+  "series": "belgium100k",
+  "name": "Antwerp",
+  "sheet": "3",
+  "title": "File:Map by the US Army Map Service - Antwerp - belgium 100k - txu-pclmaps-oclc-6624417-antwerp-3.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Antwerp_-_belgium_100k_-_txu-pclmaps-oclc-6624417-antwerp-3.jpg",
+  "cache": "belgium100k_Antwerp_3.jpg",
+  "orig_size": [
+   6993,
+   5047
+  ]
+ },
+ {
+  "series": "belgium100k",
+  "name": "Arlon",
+  "sheet": "17",
+  "title": "File:Map by the US Army Map Service - Arlon - belgium 100k - txu-pclmaps-oclc-6624417-arlon-17.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Arlon_-_belgium_100k_-_txu-pclmaps-oclc-6624417-arlon-17.jpg",
+  "cache": "belgium100k_Arlon_17.jpg",
+  "orig_size": [
+   6954,
+   5048
+  ]
+ },
+ {
+  "series": "france250k",
+  "name": "Auxerre",
+  "sheet": "16",
+  "title": "File:Map by the US Army Map Service - Auxerre - france 250k - txu-pclmaps-oclc-6621442-auxerre-16.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Auxerre_-_france_250k_-_txu-pclmaps-oclc-6621442-auxerre-16.jpg",
+  "cache": "france250k_Auxerre_16.jpg",
+  "orig_size": [
+   7453,
+   6628
+  ]
+ },
+ {
+  "series": "france250k",
+  "name": "Avignon",
+  "sheet": "37",
+  "title": "File:Map by the US Army Map Service - Avignon - france 250k - txu-pclmaps-oclc-6621442-avignon-37.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Avignon_-_france_250k_-_txu-pclmaps-oclc-6621442-avignon-37.jpg",
+  "cache": "france250k_Avignon_37.jpg",
+  "orig_size": [
+   6994,
+   5147
+  ]
+ },
+ {
+  "series": "germany250k",
+  "name": "Basel",
+  "sheet": "K-48",
+  "title": "File:Map by the US Army Map Service - Basel - central europe 250k - txu-pclmaps-oclc-6481354-basel-k-48.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Basel_-_central_europe_250k_-_txu-pclmaps-oclc-6481354-basel-k-48.jpg",
+  "cache": "germany250k_Basel_k-48.jpg",
+  "orig_size": [
+   7186,
+   6149
+  ]
+ },
+ {
+  "series": "france250k",
+  "name": "Bayonne",
+  "sheet": "34-A",
+  "title": "File:Map by the US Army Map Service - Bayonne - france 250k - txu-pclmaps-oclc-6621442-bayonne-34-a.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Bayonne_-_france_250k_-_txu-pclmaps-oclc-6621442-bayonne-34-a.jpg",
+  "cache": "france250k_Bayonne_34-a.jpg",
+  "orig_size": [
+   4187,
+   6643
+  ]
+ },
+ {
+  "series": "belgium100k",
+  "name": "Beauvais",
+  "sheet": "18",
+  "title": "File:Map by the US Army Map Service - Beauvais - belgium 100k - txu-pclmaps-oclc-6624417-beauvais-18.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Beauvais_-_belgium_100k_-_txu-pclmaps-oclc-6624417-beauvais-18.jpg",
+  "cache": "belgium100k_Beauvais_18.jpg",
+  "orig_size": [
+   7008,
+   5036
+  ]
+ },
+ {
+  "series": "germany250k",
+  "name": "Berlin",
+  "sheet": "N-53",
+  "title": "File:Map by the US Army Map Service - Berlin - central europe 250k - txu-pclmaps-oclc-6481354-berlin-n-53.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Berlin_-_central_europe_250k_-_txu-pclmaps-oclc-6481354-berlin-n-53.jpg",
+  "cache": "germany250k_Berlin_n-53.jpg",
+  "orig_size": [
+   7085,
+   6110
+  ]
+ },
+ {
+  "series": "france250k",
+  "name": "Besancon",
+  "sheet": "23",
+  "title": "File:Map by the US Army Map Service - Besancon - france 250k - txu-pclmaps-oclc-6621442-besancon-23.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Besancon_-_france_250k_-_txu-pclmaps-oclc-6621442-besancon-23.jpg",
+  "cache": "france250k_Besancon_23.jpg",
+  "orig_size": [
+   7473,
+   6159
+  ]
+ },
+ {
+  "series": "france250k",
+  "name": "Beziers",
+  "sheet": "41",
+  "title": "File:Map by the US Army Map Service - Beziers - france 250k - txu-pclmaps-oclc-6621442-beziers-41.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Beziers_-_france_250k_-_txu-pclmaps-oclc-6621442-beziers-41.jpg",
+  "cache": "france250k_Beziers_41.jpg",
+  "orig_size": [
+   6970,
+   5594
+  ]
+ },
+ {
+  "series": "france250k",
+  "name": "Bordeaux",
+  "sheet": "29",
+  "title": "File:Map by the US Army Map Service - Bordeaux - france 250k - txu-pclmaps-oclc-6621442-bordeaux-29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Bordeaux_-_france_250k_-_txu-pclmaps-oclc-6621442-bordeaux-29.jpg",
+  "cache": "france250k_Bordeaux_29.jpg",
+  "orig_size": [
+   7008,
+   5074
+  ]
+ },
+ {
+  "series": "france250k",
+  "name": "Brest",
+  "sheet": "13A",
+  "title": "File:Map by the US Army Map Service - Brest - france 250k - txu-pclmaps-oclc-6621442-brest-7a-13a.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Brest_-_france_250k_-_txu-pclmaps-oclc-6621442-brest-7a-13a.jpg",
+  "cache": "france250k_Brest_13a.jpg",
+  "orig_size": [
+   4565,
+   6086
+  ]
+ },
+ {
+  "series": "belgium100k",
+  "name": "Brussels",
+  "sheet": "8",
+  "title": "File:Map by the US Army Map Service - Brussels - belgium 100k - txu-pclmaps-oclc-6624417-brussels-8.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Brussels_-_belgium_100k_-_txu-pclmaps-oclc-6624417-brussels-8.jpg",
+  "cache": "belgium100k_Brussels_8.jpg",
+  "orig_size": [
+   6985,
+   5052
+  ]
+ },
+ {
+  "series": "belgium100k",
+  "name": "Calais",
+  "sheet": "5",
+  "title": "File:Map by the US Army Map Service - Calais - belgium 100k - txu-pclmaps-oclc-6624417-calais-5.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Calais_-_belgium_100k_-_txu-pclmaps-oclc-6624417-calais-5.jpg",
+  "cache": "belgium100k_Calais_5.jpg",
+  "orig_size": [
+   3869,
+   6195
+  ]
+ },
+ {
+  "series": "germany250k",
+  "name": "Chemnitz",
+  "sheet": "N-51",
+  "title": "File:Map by the US Army Map Service - Chemnitz - central europe 250k - txu-pclmaps-oclc-6481354-chemnitz-n-51.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Chemnitz_-_central_europe_250k_-_txu-pclmaps-oclc-6481354-chemnitz-n-51.jpg",
+  "cache": "germany250k_Chemnitz_n-51.jpg",
+  "orig_size": [
+   7100,
+   6164
+  ]
+ },
+ {
+  "series": "france250k",
+  "name": "Cherbourg and Caen",
+  "sheet": "8",
+  "title": "File:Map by the US Army Map Service - Cherbourg and Caen - france 250k - txu-pclmaps-oclc-6621442-cherbourg-and-caen-3a-8.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Cherbourg_and_Caen_-_france_250k_-_txu-pclmaps-oclc-6621442-cherbourg-and-caen-3a-8.jpg",
+  "cache": "france250k_Cherbourg_and_Caen_8.jpg",
+  "orig_size": [
+   6000,
+   6303
+  ]
+ },
+ {
+  "series": "france250k",
+  "name": "Clermont Ferrand",
+  "sheet": "26",
+  "title": "File:Map by the US Army Map Service - Clermont Ferrand - france 250k - txu-pclmaps-oclc-6621442-clermont-ferrand-26.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Clermont_Ferrand_-_france_250k_-_txu-pclmaps-oclc-6621442-clermont-ferrand-26.jpg",
+  "cache": "france250k_Clermont_Ferrand_26.jpg",
+  "orig_size": [
+   7060,
+   5587
+  ]
+ },
+ {
+  "series": "germany250k",
+  "name": "Darmstadt",
+  "sheet": "L-50",
+  "title": "File:Map by the US Army Map Service - Darmstadt - central europe 250k - txu-pclmaps-oclc-6481354-darmstadt-l-50.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Darmstadt_-_central_europe_250k_-_txu-pclmaps-oclc-6481354-darmstadt-l-50.jpg",
+  "cache": "germany250k_Darmstadt_l-50.jpg",
+  "orig_size": [
+   7176,
+   6221
+  ]
+ },
+ {
+  "series": "germany250k",
+  "name": "Dresden",
+  "sheet": "N-52",
+  "title": "File:Map by the US Army Map Service - Dresden - central europe 250k - txu-pclmaps-oclc-6481354-dresden-n-52.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Dresden_-_central_europe_250k_-_txu-pclmaps-oclc-6481354-dresden-n-52.jpg",
+  "cache": "germany250k_Dresden_n-52.jpg",
+  "orig_size": [
+   7061,
+   6115
+  ]
+ },
+ {
+  "series": "belgium100k",
+  "name": "Dunkerque",
+  "sheet": "1",
+  "title": "File:Map by the US Army Map Service - Dunkerque - belgium 100k - txu-pclmaps-oclc-6624417-dunkerque-1.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Dunkerque_-_belgium_100k_-_txu-pclmaps-oclc-6624417-dunkerque-1.jpg",
+  "cache": "belgium100k_Dunkerque_1.jpg",
+  "orig_size": [
+   6217,
+   3473
+  ]
+ },
+ {
+  "series": "germany250k",
+  "name": "Dusseldorf",
+  "sheet": "K-52",
+  "title": "File:Map by the US Army Map Service - Dusseldorf - central europe 250k - txu-pclmaps-oclc-6481354-dusseldorf-k-52.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Dusseldorf_-_central_europe_250k_-_txu-pclmaps-oclc-6481354-dusseldorf-k-52.jpg",
+  "cache": "germany250k_Dusseldorf_k-52.jpg",
+  "orig_size": [
+   7123,
+   6149
+  ]
+ },
+ {
+  "series": "france250k",
+  "name": "Epinal",
+  "sheet": "17",
+  "title": "File:Map by the US Army Map Service - Epinal - france 250k - txu-pclmaps-oclc-6621442-epinal-17.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Epinal_-_france_250k_-_txu-pclmaps-oclc-6621442-epinal-17.jpg",
+  "cache": "france250k_Epinal_17.jpg",
+  "orig_size": [
+   7514,
+   6980
+  ]
+ },
+ {
+  "series": "germany250k",
+  "name": "Erfurt",
+  "sheet": "M-51",
+  "title": "File:Map by the US Army Map Service - Erfurt - central europe 250k - txu-pclmaps-oclc-6481354-erfurt-m-51.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Erfurt_-_central_europe_250k_-_txu-pclmaps-oclc-6481354-erfurt-m-51.jpg",
+  "cache": "germany250k_Erfurt_m-51.jpg",
+  "orig_size": [
+   7104,
+   6173
+  ]
+ },
+ {
+  "series": "france250k",
+  "name": "France",
+  "sheet": "38",
+  "title": "File:Map by the US Army Map Service - France - france 250k - txu-pclmaps-oclc-6621442-france-38.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_France_-_france_250k_-_txu-pclmaps-oclc-6621442-france-38.jpg",
+  "cache": "france250k_France_38.jpg",
+  "orig_size": [
+   6139,
+   4698
+  ]
+ },
+ {
+  "series": "germany250k",
+  "name": "Frankfurt",
+  "sheet": "L-51",
+  "title": "File:Map by the US Army Map Service - Frankfurt - central europe 250k - txu-pclmaps-oclc-6481354-frankfurt-l-51.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Frankfurt_-_central_europe_250k_-_txu-pclmaps-oclc-6481354-frankfurt-l-51.jpg",
+  "cache": "germany250k_Frankfurt_l-51.jpg"
+ },
+ {
+  "series": "belgium100k",
+  "name": "Ghent",
+  "sheet": "2",
+  "title": "File:Map by the US Army Map Service - Ghent - belgium 100k - txu-pclmaps-oclc-6624417-ghent-2.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Ghent_-_belgium_100k_-_txu-pclmaps-oclc-6624417-ghent-2.jpg",
+  "cache": "belgium100k_Ghent_2.jpg",
+  "orig_size": [
+   7008,
+   5031
+  ]
+ },
+ {
+  "series": "france250k",
+  "name": "Grenoble",
+  "sheet": "32",
+  "title": "File:Map by the US Army Map Service - Grenoble - france 250k - txu-pclmaps-oclc-6621442-grenoble-32.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Grenoble_-_france_250k_-_txu-pclmaps-oclc-6621442-grenoble-32.jpg",
+  "cache": "france250k_Grenoble_32.jpg",
+  "orig_size": [
+   6915,
+   5042
+  ]
+ },
+ {
+  "series": "germany250k",
+  "name": "Halle",
+  "sheet": "M-52",
+  "title": "File:Map by the US Army Map Service - Halle - central europe 250k - txu-pclmaps-oclc-6481354-halle-m-52.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Halle_-_central_europe_250k_-_txu-pclmaps-oclc-6481354-halle-m-52.jpg",
+  "cache": "germany250k_Halle_m-52.jpg",
+  "orig_size": [
+   7051,
+   6168
+  ]
+ },
+ {
+  "series": "germany250k",
+  "name": "Hannover",
+  "sheet": "L-53",
+  "title": "File:Map by the US Army Map Service - Hannover - central europe 250k - txu-pclmaps-oclc-6481354-hannover-l-53.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Hannover_-_central_europe_250k_-_txu-pclmaps-oclc-6481354-hannover-l-53.jpg",
+  "cache": "germany250k_Hannover_l-53.jpg",
+  "orig_size": [
+   7541,
+   6108
+  ]
+ },
+ {
+  "series": "belgium100k",
+  "name": "Hazebrouck",
+  "sheet": "6",
+  "title": "File:Map by the US Army Map Service - Hazebrouck - belgium 100k - txu-pclmaps-oclc-6624417-hazebrouck-6.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Hazebrouck_-_belgium_100k_-_txu-pclmaps-oclc-6624417-hazebrouck-6.jpg",
+  "cache": "belgium100k_Hazebrouck_6.jpg",
+  "orig_size": [
+   6965,
+   5047
+  ]
+ },
+ {
+  "series": "germany250k",
+  "name": "Kiel",
+  "sheet": "L-55",
+  "title": "File:Map by the US Army Map Service - Kiel - central europe 250k - txu-pclmaps-oclc-6481354-kiel-l-55.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Kiel_-_central_europe_250k_-_txu-pclmaps-oclc-6481354-kiel-l-55.jpg",
+  "cache": "germany250k_Kiel_l-55.jpg",
+  "orig_size": [
+   7091,
+   6106
+  ]
+ },
+ {
+  "series": "france250k",
+  "name": "La Roche Sur Yon",
+  "sheet": "20",
+  "title": "File:Map by the US Army Map Service - La Roche Sur Yon - france 250k - txu-pclmaps-oclc-6621442-la-roche-sur-yon-20.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_La_Roche_Sur_Yon_-_france_250k_-_txu-pclmaps-oclc-6621442-la-roche-sur-yon-20.jpg",
+  "cache": "france250k_La_Roche_Sur_Yon_20.jpg",
+  "orig_size": [
+   6960,
+   4739
+  ]
+ },
+ {
+  "series": "belgium100k",
+  "name": "Lens",
+  "sheet": "10",
+  "title": "File:Map by the US Army Map Service - Lens - belgium 100k - txu-pclmaps-oclc-6624417-lens-10.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Lens_-_belgium_100k_-_txu-pclmaps-oclc-6624417-lens-10.jpg",
+  "cache": "belgium100k_Lens_10.jpg",
+  "orig_size": [
+   6973,
+   5065
+  ]
+ },
+ {
+  "series": "belgium100k",
+  "name": "Liege",
+  "sheet": "9",
+  "title": "File:Map by the US Army Map Service - Liege - belgium 100k - txu-pclmaps-oclc-6624417-liege-9.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Liege_-_belgium_100k_-_txu-pclmaps-oclc-6624417-liege-9.jpg",
+  "cache": "belgium100k_Liege_9.jpg"
+ },
+ {
+  "series": "france250k",
+  "name": "Limoges",
+  "sheet": "25",
+  "title": "File:Map by the US Army Map Service - Limoges - france 250k - txu-pclmaps-oclc-6621442-limoges-25.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Limoges_-_france_250k_-_txu-pclmaps-oclc-6621442-limoges-25.jpg",
+  "cache": "france250k_Limoges_25.jpg",
+  "orig_size": [
+   7012,
+   5183
+  ]
+ },
+ {
+  "series": "france250k",
+  "name": "Lyon",
+  "sheet": "27",
+  "title": "File:Map by the US Army Map Service - Lyon - france 250k - txu-pclmaps-oclc-6621442-lyon-27.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Lyon_-_france_250k_-_txu-pclmaps-oclc-6621442-lyon-27.jpg",
+  "cache": "france250k_Lyon_27.jpg",
+  "orig_size": [
+   6949,
+   5116
+  ]
+ },
+ {
+  "series": "germany250k",
+  "name": "Magdeburg",
+  "sheet": "M-53",
+  "title": "File:Map by the US Army Map Service - Magdeburg - central europe 250k - txu-pclmaps-oclc-6481354-magdeburg-m-53.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Magdeburg_-_central_europe_250k_-_txu-pclmaps-oclc-6481354-magdeburg-m-53.jpg",
+  "cache": "germany250k_Magdeburg_m-53.jpg",
+  "orig_size": [
+   7068,
+   6125
+  ]
+ },
+ {
+  "series": "belgium100k",
+  "name": "Marche",
+  "sheet": "13",
+  "title": "File:Map by the US Army Map Service - Marche - belgium 100k - txu-pclmaps-oclc-6624417-marche-13.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Marche_-_belgium_100k_-_txu-pclmaps-oclc-6624417-marche-13.jpg",
+  "cache": "belgium100k_Marche_13.jpg",
+  "orig_size": [
+   6973,
+   5034
+  ]
+ },
+ {
+  "series": "france250k",
+  "name": "Marseilles",
+  "sheet": "42",
+  "title": "File:Map by the US Army Map Service - Marseilles - france 250k - txu-pclmaps-oclc-6621442-marseilles-42.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Marseilles_-_france_250k_-_txu-pclmaps-oclc-6621442-marseilles-42.jpg",
+  "cache": "france250k_Marseilles_42.jpg",
+  "orig_size": [
+   6989,
+   5102
+  ]
+ },
+ {
+  "series": "belgium100k",
+  "name": "Maseyck",
+  "sheet": "4",
+  "title": "File:Map by the US Army Map Service - Maseyck - belgium 100k - txu-pclmaps-oclc-6624417-maeseyck-4.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Maseyck_-_belgium_100k_-_txu-pclmaps-oclc-6624417-maeseyck-4.jpg",
+  "cache": "belgium100k_Maseyck_4.jpg",
+  "orig_size": [
+   6973,
+   5054
+  ]
+ },
+ {
+  "series": "belgium100k",
+  "name": "Mezieres",
+  "sheet": "16",
+  "title": "File:Map by the US Army Map Service - Mezieres - belgium 100k - txu-pclmaps-oclc-6624417-mezieres-16.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Mezieres_-_belgium_100k_-_txu-pclmaps-oclc-6624417-mezieres-16.jpg",
+  "cache": "belgium100k_Mezieres_16.jpg",
+  "orig_size": [
+   6949,
+   5043
+  ]
+ },
+ {
+  "series": "france250k",
+  "name": "Millau",
+  "sheet": "36",
+  "title": "File:Map by the US Army Map Service - Millau - france 250k - txu-pclmaps-oclc-6621442-millau-36.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Millau_-_france_250k_-_txu-pclmaps-oclc-6621442-millau-36.jpg",
+  "cache": "france250k_Millau_36.jpg",
+  "orig_size": [
+   7082,
+   5203
+  ]
+ },
+ {
+  "series": "france250k",
+  "name": "Mont de Marsan",
+  "sheet": "34",
+  "title": "File:Map by the US Army Map Service - Mont de Marsan - france 250k - txu-pclmaps-oclc-6621442-mont-de-marsan-34.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Mont_de_Marsan_-_france_250k_-_txu-pclmaps-oclc-6621442-mont-de-marsan-34.jpg",
+  "cache": "france250k_Mont_de_Marsan_34.jpg",
+  "orig_size": [
+   7082,
+   5122
+  ]
+ },
+ {
+  "series": "france250k",
+  "name": "Montauban",
+  "sheet": "35",
+  "title": "File:Map by the US Army Map Service - Montauban - france 250k - txu-pclmaps-oclc-6621442-montauban-35.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Montauban_-_france_250k_-_txu-pclmaps-oclc-6621442-montauban-35.jpg",
+  "cache": "france250k_Montauban_35.jpg",
+  "orig_size": [
+   6889,
+   5407
+  ]
+ },
+ {
+  "series": "france250k",
+  "name": "Moullins",
+  "sheet": "22",
+  "title": "File:Map by the US Army Map Service - Moullins - france 250k - txu-pclmaps-oclc-6621442-moulins-22.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Moullins_-_france_250k_-_txu-pclmaps-oclc-6621442-moulins-22.jpg",
+  "cache": "france250k_Moullins_22.jpg",
+  "orig_size": [
+   7494,
+   5969
+  ]
+ },
+ {
+  "series": "germany250k",
+  "name": "Munchen",
+  "sheet": "M-49",
+  "title": "File:Map by the US Army Map Service - Munchen - central europe 250k - txu-pclmaps-oclc-6481354-munchen-m-49.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Munchen_-_central_europe_250k_-_txu-pclmaps-oclc-6481354-munchen-m-49.jpg",
+  "cache": "germany250k_Munchen_m-49.jpg",
+  "orig_size": [
+   7123,
+   6110
+  ]
+ },
+ {
+  "series": "belgium100k",
+  "name": "Namur",
+  "sheet": "12",
+  "title": "File:Map by the US Army Map Service - Namur - belgium 100k - txu-pclmaps-oclc-6624417-namur-12.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Namur_-_belgium_100k_-_txu-pclmaps-oclc-6624417-namur-12.jpg",
+  "cache": "belgium100k_Namur_12.jpg",
+  "orig_size": [
+   6954,
+   5044
+  ]
+ },
+ {
+  "series": "germany250k",
+  "name": "Neustrelitz",
+  "sheet": "N-54",
+  "title": "File:Map by the US Army Map Service - Neustrelitz - central europe 250k - txu-pclmaps-oclc-6481354-neustrelitz-n-54.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Neustrelitz_-_central_europe_250k_-_txu-pclmaps-oclc-6481354-neustrelitz-n-54.jpg",
+  "cache": "germany250k_Neustrelitz_n-54.jpg",
+  "orig_size": [
+   7157,
+   6116
+  ]
+ },
+ {
+  "series": "germany250k",
+  "name": "Nurnberg",
+  "sheet": "M-50",
+  "title": "File:Map by the US Army Map Service - Nurnberg - central europe 250k - txu-pclmaps-oclc-6481354-nurnberg-m-50.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Nurnberg_-_central_europe_250k_-_txu-pclmaps-oclc-6481354-nurnberg-m-50.jpg",
+  "cache": "germany250k_Nurnberg_m-50.jpg",
+  "orig_size": [
+   7141,
+   6173
+  ]
+ },
+ {
+  "series": "france250k",
+  "name": "Orleans",
+  "sheet": "15",
+  "title": "File:Map by the US Army Map Service - Orleans - france 250k - txu-pclmaps-oclc-6621442-orleans-15.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Orleans_-_france_250k_-_txu-pclmaps-oclc-6621442-orleans-15.jpg",
+  "cache": "france250k_Orleans_15.jpg",
+  "orig_size": [
+   7297,
+   6118
+  ]
+ },
+ {
+  "series": "germany250k",
+  "name": "Osnabruck",
+  "sheet": "K-53",
+  "title": "File:Map by the US Army Map Service - Osnabruck - central europe 250k - txu-pclmaps-oclc-6481354-osnabruck-k-53.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Osnabruck_-_central_europe_250k_-_txu-pclmaps-oclc-6481354-osnabruck-k-53.jpg",
+  "cache": "germany250k_Osnabruck_k-53.jpg",
+  "orig_size": [
+   6649,
+   6152
+  ]
+ },
+ {
+  "series": "germany250k",
+  "name": "Passau",
+  "sheet": "N-49",
+  "title": "File:Map by the US Army Map Service - Passau - central europe 250k - txu-pclmaps-oclc-6481354-passau-n-49.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Passau_-_central_europe_250k_-_txu-pclmaps-oclc-6481354-passau-n-49.jpg",
+  "cache": "germany250k_Passau_n-49.jpg",
+  "orig_size": [
+   7536,
+   6106
+  ]
+ },
+ {
+  "series": "france250k",
+  "name": "Perigeux",
+  "sheet": "30",
+  "title": "File:Map by the US Army Map Service - Perigeux - france 250k - txu-pclmaps-oclc-6621442-perigueux-30.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Perigeux_-_france_250k_-_txu-pclmaps-oclc-6621442-perigueux-30.jpg",
+  "cache": "france250k_Perigeux_30.jpg",
+  "orig_size": [
+   6967,
+   5048
+  ]
+ },
+ {
+  "series": "germany250k",
+  "name": "Plzen",
+  "sheet": "N-50",
+  "title": "File:Map by the US Army Map Service - Plzen - central europe 250k - txu-pclmaps-oclc-6481354-plzen-n-50.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Plzen_-_central_europe_250k_-_txu-pclmaps-oclc-6481354-plzen-n-50.jpg",
+  "cache": "germany250k_Plzen_n-50.jpg",
+  "orig_size": [
+   7112,
+   6163
+  ]
+ },
+ {
+  "series": "france250k",
+  "name": "Poitiers",
+  "sheet": "21",
+  "title": "File:Map by the US Army Map Service - Poitiers - france 250k - txu-pclmaps-oclc-6621442-poitiers-21.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Poitiers_-_france_250k_-_txu-pclmaps-oclc-6621442-poitiers-21.jpg",
+  "cache": "france250k_Poitiers_21.jpg",
+  "orig_size": [
+   7462,
+   6019
+  ]
+ },
+ {
+  "series": "belgium100k",
+  "name": "Quentin",
+  "sheet": "15",
+  "title": "File:Map by the US Army Map Service - Quentin - belgium 100k - txu-pclmaps-oclc-6624417-st-quentin-15.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Quentin_-_belgium_100k_-_txu-pclmaps-oclc-6624417-st-quentin-15.jpg",
+  "cache": "belgium100k_Quentin_15.jpg",
+  "orig_size": [
+   7001,
+   5030
+  ]
+ },
+ {
+  "series": "belgium100k",
+  "name": "Reims",
+  "sheet": "20",
+  "title": "File:Map by the US Army Map Service - Reims - belgium 100k - txu-pclmaps-oclc-6624417-reims-20.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Reims_-_belgium_100k_-_txu-pclmaps-oclc-6624417-reims-20.jpg",
+  "cache": "belgium100k_Reims_20.jpg",
+  "orig_size": [
+   6993,
+   5034
+  ]
+ },
+ {
+  "series": "france250k",
+  "name": "Rennes",
+  "sheet": "14",
+  "title": "File:Map by the US Army Map Service - Rennes - france 250k - txu-pclmaps-oclc-6621442-rennes-14.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Rennes_-_france_250k_-_txu-pclmaps-oclc-6621442-rennes-14.jpg",
+  "cache": "france250k_Rennes_14.jpg"
+ },
+ {
+  "series": "germany250k",
+  "name": "Rostock",
+  "sheet": "M-55",
+  "title": "File:Map by the US Army Map Service - Rostock - central europe 250k - txu-pclmaps-oclc-6481354-rostock-m-55.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Rostock_-_central_europe_250k_-_txu-pclmaps-oclc-6481354-rostock-m-55.jpg",
+  "cache": "germany250k_Rostock_m-55.jpg",
+  "orig_size": [
+   7022,
+   6048
+  ]
+ },
+ {
+  "series": "france250k",
+  "name": "Saint Brieuc",
+  "sheet": "7",
+  "title": "File:Map by the US Army Map Service - Saint Brieuc - france 250k - txu-pclmaps-oclc-6621442-st-brieuc-7.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Saint_Brieuc_-_france_250k_-_txu-pclmaps-oclc-6621442-st-brieuc-7.jpg",
+  "cache": "france250k_Saint_Brieuc_7.jpg",
+  "orig_size": [
+   6454,
+   5253
+  ]
+ },
+ {
+  "series": "france250k",
+  "name": "Saint Flour",
+  "sheet": "31",
+  "title": "File:Map by the US Army Map Service - Saint Flour - france 250k - txu-pclmaps-oclc-6621442-saint-flour-31.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Saint_Flour_-_france_250k_-_txu-pclmaps-oclc-6621442-saint-flour-31.jpg",
+  "cache": "france250k_Saint_Flour_31.jpg",
+  "orig_size": [
+   7033,
+   5545
+  ]
+ },
+ {
+  "series": "france250k",
+  "name": "Saint Raphael",
+  "sheet": "43",
+  "title": "File:Map by the US Army Map Service - Saint Raphael - france 250k - txu-pclmaps-oclc-6621442-st-raphael-43.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Saint_Raphael_-_france_250k_-_txu-pclmaps-oclc-6621442-st-raphael-43.jpg",
+  "cache": "france250k_Saint_Raphael_43.jpg",
+  "orig_size": [
+   6977,
+   5515
+  ]
+ },
+ {
+  "series": "germany250k",
+  "name": "Schwerin",
+  "sheet": "M-54",
+  "title": "File:Map by the US Army Map Service - Schwerin - central europe 250k - txu-pclmaps-oclc-6481354-schwerin-m-54.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Schwerin_-_central_europe_250k_-_txu-pclmaps-oclc-6481354-schwerin-m-54.jpg",
+  "cache": "germany250k_Schwerin_m-54.jpg",
+  "orig_size": [
+   7067,
+   6107
+  ]
+ },
+ {
+  "series": "belgium100k",
+  "name": "Soissons",
+  "sheet": "19",
+  "title": "File:Map by the US Army Map Service - Soissons - belgium 100k - txu-pclmaps-oclc-6624417-soissons-19.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Soissons_-_belgium_100k_-_txu-pclmaps-oclc-6624417-soissons-19.jpg",
+  "cache": "belgium100k_Soissons_19.jpg",
+  "orig_size": [
+   6993,
+   5053
+  ]
+ },
+ {
+  "series": "germany250k",
+  "name": "Stralsund",
+  "sheet": "N-55",
+  "title": "File:Map by the US Army Map Service - Stralsund - central europe 250k - txu-pclmaps-oclc-6481354-stralsund-n-55.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Stralsund_-_central_europe_250k_-_txu-pclmaps-oclc-6481354-stralsund-n-55.jpg",
+  "cache": "germany250k_Stralsund_n-55.jpg",
+  "orig_size": [
+   7037,
+   6078
+  ]
+ },
+ {
+  "series": "germany250k",
+  "name": "Stuttgart",
+  "sheet": "L-49",
+  "title": "File:Map by the US Army Map Service - Stuttgart - central europe 250k - txu-pclmaps-oclc-6481354-stuttgart-l-49.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Stuttgart_-_central_europe_250k_-_txu-pclmaps-oclc-6481354-stuttgart-l-49.jpg",
+  "cache": "germany250k_Stuttgart_l-49.jpg",
+  "orig_size": [
+   7153,
+   6126
+  ]
+ },
+ {
+  "series": "france250k",
+  "name": "Tarbes",
+  "sheet": "39",
+  "title": "File:Map by the US Army Map Service - Tarbes - france 250k - txu-pclmaps-oclc-6621442-tarbes-39.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Tarbes_-_france_250k_-_txu-pclmaps-oclc-6621442-tarbes-39.jpg",
+  "cache": "france250k_Tarbes_39.jpg",
+  "orig_size": [
+   7066,
+   5269
+  ]
+ },
+ {
+  "series": "france250k",
+  "name": "Toulouse",
+  "sheet": "40",
+  "title": "File:Map by the US Army Map Service - Toulouse - france 250k - txu-pclmaps-oclc-6621442-toulouse-40.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Toulouse_-_france_250k_-_txu-pclmaps-oclc-6621442-toulouse-40.jpg",
+  "cache": "france250k_Toulouse_40.jpg",
+  "orig_size": [
+   7022,
+   5554
+  ]
+ },
+ {
+  "series": "belgium100k",
+  "name": "Tournai",
+  "sheet": "7",
+  "title": "File:Map by the US Army Map Service - Tournai - belgium 100k - txu-pclmaps-oclc-6624417-tournai-7.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Tournai_-_belgium_100k_-_txu-pclmaps-oclc-6624417-tournai-7.jpg",
+  "cache": "belgium100k_Tournai_7.jpg",
+  "orig_size": [
+   6965,
+   5032
+  ]
+ },
+ {
+  "series": "france250k",
+  "name": "Vannes",
+  "sheet": "13",
+  "title": "File:Map by the US Army Map Service - Vannes - france 250k - txu-pclmaps-oclc-6621442-vannes-13.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Vannes_-_france_250k_-_txu-pclmaps-oclc-6621442-vannes-13.jpg",
+  "cache": "france250k_Vannes_13.jpg",
+  "orig_size": [
+   7474,
+   6038
+  ]
+ }
+]

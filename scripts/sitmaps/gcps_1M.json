@@ -1,0 +1,29 @@
+{
+  "description": "Points de calage de la carte de référence 1:1 000 000 (12th Army Group Outline Maps), situation du 26 décembre 1944. Pixels mesurés sur la version 3840 px de Wikimedia Commons.",
+  "reference_date": "1944-12-26",
+  "reference_width": 3840,
+  "projection": "Lambert conique conforme (« Europe (Air) Conical Orthomorphic »)",
+  "points": [
+    {"name": "Paris",      "px": [300, 2583],    "lat": 48.8534, "lon": 2.3488, "weight": 0.5},
+    {"name": "Reims",      "px": [1159.5, 2304.7], "lat": 49.2583, "lon": 4.0317},
+    {"name": "Troyes",     "px": [1162, 3041],   "lat": 48.2973, "lon": 4.0744},
+    {"name": "Namur",      "px": [1588, 1368],   "lat": 50.4669, "lon": 4.8675},
+    {"name": "Neuwied",    "px": [2861, 1389.5], "lat": 50.4286, "lon": 7.4614},
+    {"name": "Mannheim",   "px": [3365, 2105.6], "lat": 49.4875, "lon": 8.4660},
+    {"name": "Épinal",     "px": [2377, 3140],   "lat": 48.1724, "lon": 6.4497},
+    {"name": "Anvers",     "px": [1386, 809],    "lat": 51.2194, "lon": 4.4025, "weight": 0.7},
+    {"name": "Bruxelles",  "px": [1345, 1079],   "lat": 50.8467, "lon": 4.3525, "weight": 0.7},
+    {"name": "Cologne",    "px": [2616, 994],    "lat": 50.9413, "lon": 6.9583, "weight": 0.7},
+    {"name": "Lille",      "px": [716, 1225],    "lat": 50.6330, "lon": 3.0600, "weight": 0.7},
+    {"name": "Dunkerque",  "px": [392, 900],     "lat": 51.0344, "lon": 2.3768},
+    {"name": "Soest",      "px": [3145, 499],    "lat": 51.5711, "lon": 8.1060},
+    {"name": "Francfort",  "px": [3460, 1623],   "lat": 50.1106, "lon": 8.6821, "weight": 0.5},
+    {"name": "Breda",      "px": [1573, 530],    "lat": 51.5719, "lon": 4.7683, "weight": 0.3},
+    {"name": "Bielefeld",  "px": [3303, 94],     "lat": 52.0302, "lon": 8.5325, "weight": 0.0, "note": "écarté : écart de 7 km, identification incertaine"},
+    {"name": "Coin 52°N 2°E", "px": [248, 161],  "lat": 52.0, "lon": 2.0, "weight": 0.5},
+    {"name": "Coin 52°N 9°E", "px": [3583, 161], "lat": 52.0, "lon": 9.0, "weight": 0.5},
+    {"name": "Coin 48°N 2°E", "px": [96, 3222],  "lat": 48.0, "lon": 2.0, "weight": 0.5},
+    {"name": "Repère 48°N 9°E", "px": [3702, 3229], "lat": 48.0, "lon": 9.0, "weight": 0.5}
+  ],
+  "neatline_px": [[248, 161], [3583, 161], [3748, 3229], [96, 3222]]
+}
