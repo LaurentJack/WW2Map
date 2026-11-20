@@ -45,6 +45,8 @@ SHOTS = {
     # la case LIDAR est désactivée par Leaflet sous son zoom minimal (9) : on la coche après le zoom
     "lidar-satellite-bastogne": ("$cats(false); $layer('Satellite');", [50.037, 5.736, 16],
                                  "$layer('Wallonie : relief'); document.querySelector('.swipe-toggle').click();", 10000),
+    "lidar-pointe-du-hoc": ("$cats(false); $layer('Satellite');", [49.3955, -0.9890, 17],
+                            "$layer('France : relief LiDAR'); document.querySelector('.swipe-toggle').click();", 10000),
     "gsgs-france-1943": ("$cats(false); $gsgs('France 1:250');", [48.85, -0.9, 10], "", 8000),
 }
 

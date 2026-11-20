@@ -49,13 +49,14 @@ Sans l'exe, on peut servir le dossier en local avec `python -m http.server 8765`
 | Photos aériennes 1947 | Calvados (plages et bataille de Normandie) | IGN – BD ORTHO Historique |
 | Carte d'état-major 1820-1866 | France | IGN – Géoplateforme |
 | Photos aériennes 1971 | Wallonie | SPW – Géoportail de la Wallonie |
+| Relief LiDAR HD (ombrage du MNT) | France (couverture nationale en cours d'achèvement : zones non encore acquises vides) | IGN – Géoplateforme (WMTS `IGNF_LIDAR-HD_MNT_ELEVATION.ELEVATIONGRIDCOVERAGE.SHADOW`) |
 | Relief LIDAR 2021-2022 (ombrage du MNT, 0,5 m) | Wallonie | SPW – Géoportail de la Wallonie (service `RELIEF/WALLONIE_MNT_2021_2022_HILLSHADE`) |
 | Relief LIDAR DHMV II (ombrage multidirectionnel, 0,25 m) | Flandre et Bruxelles | Digitaal Vlaanderen (WMS `DHMV`, couche `DHMV_II_HILL_25cm`) |
 | Photos aériennes 1953 | Berlin | Geoportal Berlin (dl-zero-de/2.0) |
 
 Toutes ces couches sont chargées en direct depuis les services publics : il faut une connexion internet.
 
-Le relief LIDAR montre le terrain sans la végétation. Dans les forêts des Ardennes, on y voit encore les trous d'obus, les tranchées, les trous de combat et les abris de 1944-1945, par exemple autour de Bastogne (bois Jacques, Foy). En Flandre, on y voit les traces de la Grande Guerre autour d'Ypres. Les couches s'affichent à partir du zoom 9. Elles fonctionnent aussi avec le rideau de comparaison.
+Le relief LIDAR montre le terrain sans la végétation. Dans les forêts des Ardennes, on y voit encore les trous d'obus, les tranchées, les trous de combat et les abris de 1944-1945, par exemple autour de Bastogne (bois Jacques, Foy). En France, les cratères de bombes de la pointe du Hoc (6 juin 1944) apparaissent nettement. En Flandre, on y voit les traces de la Grande Guerre autour d'Ypres. Les couches s'affichent à partir du zoom 9. Elles fonctionnent aussi avec le rideau de comparaison.
 
 ## Cartes de situation 1944-1945 (positions, mouvements, lignes de front)
 

@@ -42,7 +42,11 @@ Le bouton « ⇆ Comparer » coupe la carte en deux : à gauche la couche ancien
 
 ### Voir le terrain sous la forêt : LIDAR et satellite
 
-Le relief LIDAR de Wallonie et de Flandre montre le sol sans la végétation. Autour de Bastogne, on distingue encore les trous d'obus, les tranchées et les trous de combat de l'hiver 1944, invisibles sur la photo satellite.
+Le relief LIDAR de France (LiDAR HD de l'IGN), de Wallonie et de Flandre montre le sol sans la végétation. À la pointe du Hoc, les cratères des bombardements du 6 juin 1944 criblent encore le terrain :
+
+![Pointe du Hoc : relief LiDAR HD à gauche, satellite à droite](docs/img/lidar-pointe-du-hoc.jpg)
+
+En Belgique, le principe est le même. Autour de Bastogne, on distingue encore les trous d'obus, les tranchées et les trous de combat de l'hiver 1944, invisibles sur la photo satellite.
 
 ![Près de Bastogne : relief LIDAR à gauche, satellite à droite](docs/img/lidar-satellite-bastogne.jpg)
 
@@ -71,7 +75,7 @@ Les cartes britanniques GSGS (éditions de l'US Army Map Service) sont calées s
 | Lieux | Sélection manuelle, [Wikidata](https://www.wikidata.org), [EHRI](https://www.ehri-project.eu) (camps et sous-camps), [OpenStreetMap](https://www.openstreetmap.org) (bunkers, champs de bataille) | CC0 (Wikidata) ; ODbL (© contributeurs OpenStreetMap) |
 | Cartes de situation 1944-1945 | 12th Army Group, Library of Congress, via Wikimedia Commons | Domaine public |
 | Cartes GSGS 1943 | War Office / US Army Map Service, Perry-Castañeda Library (université du Texas) | Domaine public |
-| Relief LIDAR | SPW – Géoportail de la Wallonie ; Digitaal Vlaanderen | Données ouvertes |
+| Relief LIDAR | IGN (LiDAR HD) ; SPW – Géoportail de la Wallonie ; Digitaal Vlaanderen | Données ouvertes (Licence Ouverte Etalab pour l'IGN) |
 | Cartes et photos anciennes | IGN – Géoplateforme ; SPW ; Geoportal Berlin | Licences ouvertes des fournisseurs |
 | Fonds de carte | OpenStreetMap, OpenTopoMap, Esri World Imagery | ODbL, CC-BY-SA, conditions Esri (usage non commercial) |
 | Bibliothèque de carte | [Leaflet](https://leafletjs.com), Leaflet.markercluster | BSD-2 / MIT |

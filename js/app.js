@@ -73,6 +73,9 @@
         bounds: L.latLngBounds([49.45, 2.8], [50.86, 6.45]), attribution: "© SPW – Géoportail de la Wallonie" }),
     // Relief LIDAR (ombrage du modèle numérique de terrain) : trous d'obus, tranchées, abris, emplacements
     // de pièces restent visibles sous la végétation, notamment dans les Ardennes (bataille des Ardennes)
+    // LiDAR HD de l'IGN : ombrage du MNT, couverture nationale en cours (zones non encore acquises = vides)
+    "🇫🇷 France : relief LiDAR HD (IGN)": ign("IGNF_LIDAR-HD_MNT_ELEVATION.ELEVATIONGRIDCOVERAGE.SHADOW", "PM_0_18", "image/png",
+      { maxNativeZoom: 18, maxZoom: 19, minZoom: 9, bounds: FRANCE, attribution: "Relief LiDAR HD © IGN – Géoplateforme" }),
     "🇧🇪 Wallonie : relief LIDAR 2021-2022 (0,5 m)": L.tileLayer.wms(
       "https://geoservices.wallonie.be/arcgis/services/RELIEF/WALLONIE_MNT_2021_2022_HILLSHADE/MapServer/WMSServer",
       { layers: "0", format: "image/png", version: "1.3.0", maxZoom: 19, minZoom: 9, pane: "hist",
