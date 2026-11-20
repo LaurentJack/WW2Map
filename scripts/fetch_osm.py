@@ -9,9 +9,12 @@ deux requêtes suffisent (tags, puis géométries), et le pays est donné direct
 frontières que l'objet intersecte. Les serveurs Overpass publics, utilisés au départ, étaient trop
 souvent saturés pour une extraction sur trois pays.
 
-OSM ne précise presque jamais l'époque d'un bunker : un élément n'est retenu que s'il est
-explicitement rattaché à 1939-1945 (date de construction, nom, description, ligne défensive :
-Atlantikwall, Westwall, Maginot, ligne KW…). Les éléments de 1914-1918 sont écartés.
+OSM ne précise presque jamais l'époque d'un bunker.
+  - France et Allemagne : un élément n'est retenu que s'il est explicitement rattaché à 1939-1945 (date de
+    construction, nom, description, ligne défensive : Atlantikwall, Westwall, Maginot…).
+  - Belgique : toutes les fortifications sont retenues (forts, bunkers, casemates, tranchées, citadelles),
+    avec leur époque dans le champ "ep" : "xix" (avant 1914 : forts Brialmont, citadelles), "ww1", "ww2",
+    "cold" (après 1945) ou "unk" (non précisée).
 """
 import csv
 import io
@@ -41,6 +44,7 @@ SELECTION = """{ SELECT DISTINCT ?o ?c WHERE {
     VALUES ?c { osmrel:52411 osmrel:2202162 osmrel:51477 }
     { ?o osmkey:military "bunker" } UNION { ?o osmkey:historic "bunker" } UNION { ?o osmkey:building "bunker" }
     UNION { ?o osmkey:historic "fort" } UNION { ?o osmkey:historic "battlefield" }
+    UNION { ?o osmkey:military "trench" } UNION { ?o osmkey:castle_type "fortress" }
     ?o ogc:sfIntersects ?c .
   } }"""
 QUERY_TAGS = PREFIXES + "SELECT ?o ?c ?k ?v WHERE { " + SELECTION + """
@@ -96,6 +100,55 @@ def classify(tags):
     if WW1.search(text) and not (explicit or line or dated):
         return False, line
     return bool(line or explicit or regelbau or dated), line
+
+
+XIX = re.compile(r"brialmont|stelling van antwerpen|r[ée]duit national|nationaal reduit|position fortifi[ée]e de namur|"
+                 r"\bpfn\b|citadel", re.I)
+COLD = re.compile(r"koude oorlog|guerre froide|cold war|kalter krieg|otan|nato", re.I)
+ERA_LABEL = {"xix": "avant 1914", "ww1": "1914-1918", "ww2": "1939-1945", "cold": "après 1945", "unk": "époque non précisée"}
+
+
+# Forts Brialmont (1888-1892) des positions fortifiées de Liège et de Namur, et forts neufs des années 1930 (PFL)
+PFL_BRIALMONT = ("barchon", "evegnee", "fleron", "chaudfontaine", "embourg", "boncelles", "flemalle", "hollogne",
+                 "loncin", "lantin", "liers", "pontisse")
+PFN_BRIALMONT = ("cognelee", "marchovelette", "maizeret", "andoy", "dave", "saint heribert", "malonne", "suarlee", "emines")
+PFL_1930 = ("eben emael", "aubin neufchateau", "battice", "tancremont")
+
+
+def plain(s):
+    import unicodedata
+    return re.sub(r"[^a-z ]+", " ", unicodedata.normalize("NFD", s.lower()).encode("ascii", "ignore").decode()).strip()
+
+
+def belgian_fort(tags):
+    """(époque, ligne) d'un fort belge connu, d'après son nom ; (None, None) sinon."""
+    n = plain(tags.get("name", ""))
+    if not re.search(r"\bfort\b", n):
+        return None, None
+    if any(f in n for f in PFL_1930):
+        return "ww2", "Position fortifiée de Liège (forts des années 1930)"
+    if any(f in n for f in PFL_BRIALMONT):
+        return "xix", "Position fortifiée de Liège (fort Brialmont, 1888-1892)"
+    if any(f in n for f in PFN_BRIALMONT):
+        return "xix", "Position fortifiée de Namur (fort Brialmont, 1888-1892)"
+    return None, None
+
+
+def era(tags, ww2):
+    """Époque d'une fortification belge (voir le docstring du module)."""
+    if ww2:
+        return "ww2"
+    text = " ".join(tags.get(k, "") for k in TEXT_KEYS)
+    y = year_of(tags.get("start_date") or tags.get("date") or tags.get("construction_date"))
+    if y is not None:
+        return "xix" if y < 1914 else "ww1" if y <= 1918 else "ww2" if y <= 1945 else "cold"
+    if WW1.search(text):
+        return "ww1"
+    if COLD.search(text):
+        return "cold"
+    if XIX.search(text) or tags.get("castle_type") == "fortress" or tags.get("historic") == "fort":
+        return "xix"  # forts, citadelles et redoutes belges non datés : tous antérieurs à 1914
+    return "unk"
 
 
 def qlever(query, cache_name, refresh):
@@ -186,7 +239,12 @@ def main():
             stats["hors BE/FR/DE (métropole)"] += 1
             continue
         ww2, line = classify(tags)
-        if not ww2:
+        ep = era(tags, ww2) if cc == "BE" else "ww2"
+        if cc == "BE":
+            fep, fline = belgian_fort(tags)
+            if fep:
+                ep, line = fep, fline
+        if not ww2 and cc != "BE":
             stats["époque non 39-45 ou inconnue"] += 1
             continue
         if tags.get("wikidata") in known_qids:
@@ -194,7 +252,7 @@ def main():
             continue
         battle = tags.get("historic") == "battlefield"
         name = tags.get("name:fr") or tags.get("name")
-        if not battle and tags.get("building") == "bunker" and not tags.get("military") and not line and not name:
+        if cc != "BE" and not battle and tags.get("building") == "bunker" and not tags.get("military") and not line and not name:
             stats["abri sans information"] += 1
             continue
         if is_duplicate(lat, lon, key_words(name), others):
@@ -203,10 +261,14 @@ def main():
         btype = BUNKER_TYPES.get(tags.get("bunker_type", ""), None)
         if battle:
             sub = "Champ de bataille"
-        elif tags.get("historic") == "fort":
-            sub = "Fort / ouvrage" + (f" — {line}" if line else "")
+        elif tags.get("historic") == "fort" or tags.get("castle_type") == "fortress":
+            sub = ("Citadelle" if tags.get("castle_type") == "fortress" else "Fort / ouvrage") + (f" — {line}" if line else "")
+        elif tags.get("military") == "trench":
+            sub = "Tranchée" + (f" — {line}" if line else "")
         else:
             sub = (btype or "Bunker") + (f" — {line}" if line and line != btype else "")
+        if cc == "BE" and ep != "ww2" and not re.search(r"\d{4}", line or ""):
+            sub += f" ({ERA_LABEL[ep]})"
         if not name:
             name = sub
             if tags.get("ref"):
@@ -219,9 +281,11 @@ def main():
             "d": tags.get("description:fr") or tags.get("description"),
             "url": f"https://www.openstreetmap.org/{typ}/{oid}",
             "qid": tags.get("wikidata") if re.fullmatch(r"Q\d+", tags.get("wikidata", "")) else None,
+            "ep": ep if cc == "BE" else None,
         }
         out.append({k: v for k, v in rec.items() if v is not None})
-        stats[f"{cc} {'champ de bataille' if battle else (line or 'autre site 39-45')}"] += 1
+        stats[f"{cc} {ERA_LABEL[ep]} — {'champ de bataille' if battle else (line or sub.split(' (')[0])}" if cc == "BE"
+              else f"{cc} {'champ de bataille' if battle else (line or 'autre site 39-45')}"] += 1
 
     out.sort(key=lambda r: (r["cc"], r["c"], r["n"]))
     write_js(OUT, "WW2_OSM", out, "Source : © contributeurs OpenStreetMap (ODbL), via QLever (osm-planet),")

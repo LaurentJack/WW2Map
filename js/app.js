@@ -16,7 +16,15 @@
     curated: "Sélection manuelle",
     wikidata: "Wikidata (import automatique)",
     ehri: "EHRI — camps et sous-camps",
-    osm: "OpenStreetMap — bunkers, champs de bataille",
+    osm: "OpenStreetMap — bunkers, forts, champs de bataille",
+  };
+  // Époque : toutes les données sont de 1939-1945, sauf les fortifications belges d'OpenStreetMap (champ "ep")
+  const ERAS = {
+    xix: "Forts et citadelles d'avant 1914",
+    ww1: "Première Guerre mondiale (1914-1918)",
+    ww2: "Seconde Guerre mondiale (1939-1945)",
+    cold: "Après 1945",
+    unk: "Époque non précisée (bunkers belges)",
   };
   const LINK_LABELS = { ehri: "Fiche EHRI", osm: "Voir sur OpenStreetMap" };
 
@@ -29,6 +37,7 @@
 
   const yearOf = (d) => (d ? parseInt(String(d).slice(0, 4), 10) : null);
   all.forEach((s) => {
+    if (!s.ep) s.ep = "ww2";
     s.y0 = yearOf(s.s);
     s.y1 = yearOf(s.e) ?? s.y0;
     s.search = [s.n, s.d, s.sub, s.place, s.parent].filter(Boolean).join(" ").toLowerCase()
@@ -375,6 +384,7 @@
     cats: new Set(Object.keys(CATEGORIES)),
     countries: new Set(Object.keys(COUNTRIES)),
     sources: new Set(Object.keys(SOURCES)),
+    eras: new Set(Object.keys(ERAS)),
     q: "", yMin: 1939, yMax: 1945, undated: true,
   };
 
@@ -394,6 +404,7 @@
   buildChecks("cat-filters", CATEGORIES, state.cats, (k) => CATEGORIES[k].color, "c");
   buildChecks("country-filters", COUNTRIES, state.countries, null, "cc");
   buildChecks("source-filters", SOURCES, state.sources, null, "src");
+  buildChecks("era-filters", ERAS, state.eras, null, "ep");
 
   const yMinEl = document.getElementById("year-min");
   const yMaxEl = document.getElementById("year-max");
@@ -416,7 +427,7 @@
   });
 
   function visible(s) {
-    if (!state.cats.has(s.c) || !state.countries.has(s.cc) || !state.sources.has(s.src)) return false;
+    if (!state.cats.has(s.c) || !state.countries.has(s.cc) || !state.sources.has(s.src) || !state.eras.has(s.ep)) return false;
     if (s.y0 == null) { if (!state.undated) return false; }
     else if (s.y1 < state.yMin || s.y0 > state.yMax) return false;
     if (state.q && !s.search.includes(state.q)) return false;

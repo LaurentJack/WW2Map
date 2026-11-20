@@ -9,3 +9,5 @@ WW2Map.exe
 dist/
 # réglages locaux de l'éditeur
 .claude/
+# vidéo de démonstration : gardée en local (musique de licence non vérifiée)
+docs/video/

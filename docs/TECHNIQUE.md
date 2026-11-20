@@ -180,7 +180,13 @@ python scripts/fetch_osm.py
 
 Les données sont extraites en deux requêtes du service SPARQL **QLever** (université de Fribourg, `https://qlever.dev/api/osm-planet`, copie complète d'OSM). Le pays vient directement des relations frontières que l'objet intersecte. Les serveurs Overpass publics, essayés d'abord, étaient trop souvent saturés pour une extraction sur trois pays. Résultat actuel : 3 394 sites retenus sur environ 28 000 objets candidats.
 
-OSM indique rarement l'époque d'un bunker. Un élément n'est retenu que si sa date de construction (1928-1945), son nom, sa description ou sa ligne défensive le rattachent à la Seconde Guerre mondiale : Atlantikwall, Westwall, Maginot, ligne KW, Regelbau, abris antiaériens, WN/Stützpunkt… Les vestiges de 1914-1918 et les ouvrages de la guerre froide sont écartés. Les réponses de QLever sont mises en cache dans `scripts/.cache/osm/`. Relancer le script ne refait que le filtrage, `--refresh` retélécharge les données.
+OSM indique rarement l'époque d'un bunker.
+- **France et Allemagne :** un élément n'est retenu que si sa date de construction (1928-1945), son nom, sa description ou sa ligne défensive le rattachent à la Seconde Guerre mondiale (Atlantikwall, Westwall, Maginot, Regelbau, abris antiaériens, WN/Stützpunkt…).
+- **Belgique :** toutes les fortifications sont retenues (bunkers, forts, casemates, tranchées, citadelles, environ 3 000 éléments), avec leur époque dans le champ `ep`, que l'application filtre (section « Époque »).
+  - Les forts et citadelles non datés sont tous antérieurs à 1914.
+  - Les 12 forts Brialmont de Liège et les 9 de Namur (1888-1892) sont rattachés à leur position fortifiée.
+  - Les forts neufs des années 1930 (Ében-Émael, Aubin-Neufchâteau, Battice, Tancrémont) sont classés 1939-1945.
+  - Les autres éléments sont datés par leur date, leur nom ou leur description (1914-1918, 1939-1945, après 1945). Sans indice, ils restent « époque non précisée » : c'est le cas d'environ 2 500 bunkers, dont beaucoup de 1914-1918 en Flandre et de la ligne KW, rarement renseignés dans OSM.
 
 **Licence ODbL** : en cas de diffusion publique de la carte, la mention « © contributeurs OpenStreetMap » est obligatoire (elle figure dans le pied de page), et toute base de données dérivée doit rester sous ODbL.
 

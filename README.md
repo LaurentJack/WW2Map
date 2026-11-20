@@ -65,6 +65,7 @@ Les cartes britanniques GSGS (éditions de l'US Army Map Service) sont calées s
 
 ### Et aussi
 
+- Toutes les fortifications de Belgique d'OpenStreetMap (forts Brialmont de Liège, Namur et Anvers, bunkers de 1914-1918 et de 1939-1945, tranchées), avec un filtre par époque.
 - Filtres par catégorie, pays, période et source ; recherche plein texte ; fiche de chaque lieu, avec liens Wikipédia et Wikidata.
 - Couches historiques : carte de France 1950 et photos aériennes 1950-1965 (IGN), photos de 1947 du Calvados, carte d'état-major du XIXe siècle, photos aériennes de la Wallonie (1971) et de Berlin (1953).
 
